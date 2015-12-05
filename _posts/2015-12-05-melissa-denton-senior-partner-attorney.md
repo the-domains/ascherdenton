@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'owner of Ascher & Denton'
-datePublished: '2015-12-05T18:11:03.855Z'
-dateModified: '2015-12-05T18:04:53.385Z'
+datePublished: '2015-12-05T18:48:51.594Z'
+dateModified: '2015-12-05T18:32:41.533Z'
 title: 'Melissa Denton, senior partner attorney'
 author: []
+sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney.md
-published: true
 url: melissa-denton-senior-partner-attorney/index.html
 _type: Article
 
