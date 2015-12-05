@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Melissa Denton, senior partner attorney    Melissa practices only in the area of Family Law - including many things like: Divorce; Child Custody; Child Support;'
-datePublished: '2015-12-05T18:46:18.918Z'
-dateModified: '2015-12-05T18:37:58.871Z'
+datePublished: '2015-12-05T18:59:17.721Z'
+dateModified: '2015-12-05T18:58:36.484Z'
 author: []
-title: ''
+title: "Melissa Denton, senior partner attorney\_"
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
 published: true
 authors: []
@@ -23,10 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a75fc2f-ad7e-48cc-b0eb-d0629d4ebd1c.jpg)
 
-Melissa Denton, senior partner attorney 
-
-Melissa practices only in the area of Family Law - including many things like: Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative Family Law; Community Property Law; Divorce Arbitration; Divorce Mediation; Divorce Taxation; Domestic Partnerships; Domestic Relations; Domestic Violence; Equitable Distribution; Family Arbitration; Family Mediation; Gay and Lesbian Family Law; International Family Law; Interstate Support; Marital Agreements; Marital Property Distribution; Marital Property Law; Marital Property Settlements; Matrimonial Law; Military Divorce; Non-Traditional Family Law; Paternity; Post Divorce Modification; Postnuptial Agreements; Premarital Agreements; Qualified Domestic Relations Orders (QDROs); Restraining Orders; Separation Agreements; Spousal Support; Uncontested Divorce 
-
-Melissa was admitted to the Washington State Bar and before the US Federal District Court for Western Washington in 1989
+# Melissa Denton, senior partner attorney
