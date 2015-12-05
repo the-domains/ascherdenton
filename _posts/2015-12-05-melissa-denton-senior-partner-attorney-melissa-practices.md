@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Melissa Denton, senior partner attorney    Melissa practices only in the area of Family Law - including many things like: Divorce; Child Custody; Child Support;'
-datePublished: '2015-12-05T22:48:01.231Z'
-dateModified: '2015-12-05T22:47:53.233Z'
+datePublished: '2015-12-05T23:24:28.517Z'
+dateModified: '2015-12-05T23:24:11.529Z'
 author: []
 title: "Melissa Denton, senior partner attorney\_"
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -38,6 +38,7 @@ Famous Case
 Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called _Rideout v. Rideout_,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003)
 
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
 
 More formal stuff --
 
@@ -50,4 +51,3 @@ Undergraduate Schools: Bachelor of Arts Degree and some Master's degree coursewo
 Bar Affiliations: Thurston County (Member, Family Law Section; Former President and Founding Member of Thurston County Young Lawyers) and Washington State (Former Member, Board of Trustees, Young Lawyers Division) Bar Associations
 
 Volunteer Work: Melissa volunteers in several capacities with her church, including past service on the board, service as vice-president and president of the board and several other committees and activities. She is also the volunteer attorney advising The Olympia Free Clinic and teaches and mentors other attorneys at the Thurston County Volunteer Legal Clinic.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
