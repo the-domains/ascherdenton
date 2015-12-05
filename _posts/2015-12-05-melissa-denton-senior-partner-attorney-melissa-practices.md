@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Melissa Denton, senior partner attorney    Melissa practices only in the area of Family Law - including many things like: Divorce; Child Custody; Child Support;'
-datePublished: '2015-12-05T18:59:17.721Z'
-dateModified: '2015-12-05T18:58:36.484Z'
+datePublished: '2015-12-05T19:03:42.706Z'
+dateModified: '2015-12-05T19:03:31.977Z'
 author: []
 title: "Melissa Denton, senior partner attorney\_"
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -25,4 +25,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a75fc2f-ad7e-48cc-b0eb-d0629d4ebd1c.jpg)
 
-# Melissa Denton, senior partner attorney
+Melissa Denton, senior partner attorney
