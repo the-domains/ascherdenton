@@ -1,6 +1,6 @@
 name: ascherdenton
 favicon: null
-layout_spectrum: 0.25542
+layout_spectrum: 0.43231
 typography_spectrum: 0.99549
 title: 'Family Law with Compassion & Integrity  360-357-8669 2401 Bristol Ct. SW #A-101, Olympia, WA '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4b4338'
     - '#b8bcae'
     - '#47161a'
-  brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.625
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
