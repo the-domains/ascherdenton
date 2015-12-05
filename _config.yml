@@ -1,0 +1,28 @@
+name: ascherdenton
+favicon: null
+layout_spectrum: 0.48930217255838215
+typography_spectrum: 0.8833159962669015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6915963825304061
+  lightness: 0.6585804773494601
+  saturation: 0.2303112328518182
+  rhythmicContrast: 0.4720429196022451
+purpose: []
