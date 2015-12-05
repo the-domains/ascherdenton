@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ascherdenton]]></title>
         <description><![CDATA[ascherdenton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ascherdenton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 18:11:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 18:11:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ascherdenton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Olympia, Washington Family Law & Divorce Lawyers]]></title>
+            <description><![CDATA[<article><h1></h1><p>Family law with compassion and integrity, since 1990</p></article>]]></description>
+            <link>https://thegrid.ai/ascherdenton/olympia-washington-family-law-and-divorce-lawyers/index.html</link>
+            <guid isPermaLink="false">58e5cd13-f8f2-4499-9b5e-7516a511c056</guid>
+            <pubDate>Sat, 05 Dec 2015 18:11:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Melissa Denton, senior partner attorney]]></title>
             <description><![CDATA[<article><h1>Melissa Denton, senior partner attorney</h1><h2>Melissa Denton, senior partner attorney</h2><p>null</p></article>]]></description>
-            <link>undefinedmelissa-denton-senior-partner-attorney/index.html</link>
+            <link>https://thegrid.ai/ascherdenton/melissa-denton-senior-partner-attorney/index.html</link>
             <guid isPermaLink="false">066534af-668b-47a6-bbda-067597001e37</guid>
             <pubDate>Sat, 05 Dec 2015 18:11:03 GMT</pubDate>
         </item>
