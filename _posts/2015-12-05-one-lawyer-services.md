@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: One Lawyer Services  Melissa Denton is available to provide these services where both parties meet with One Lawyer to get the legal advice and have the paperwor
-datePublished: '2015-12-05T23:22:49.810Z'
-dateModified: '2015-12-05T23:22:41.016Z'
+datePublished: '2015-12-05T23:47:05.381Z'
+dateModified: '2015-12-05T23:46:54.909Z'
 author: []
-title: "One Lawyer Services\_"
+title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
 published: true
 authors: []
@@ -23,9 +23,13 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-ONE LAWYER is an intelligent and cost effective way to resolve a disagreement with a guarantee of no court battles. Both sides get help from one lawyer to learn all of the legal advice either side would have received if they had come in to meet separately with the lawyer. This does not create a conflict of interest because both sides agree to the process in the first place and the attorney is neutral, giving all legal advice and information to both sides at all times. 
+# **ONE LAWYER**
 
-After the legal advice is provided, the lawyer acts as a mediator to help the parties negotiate settlement of all issues they need to resolve. At the parties' request, the lawyer will also provide advice like a Settlement Conference Judge and give the parties an idea what a ruling from the bench would be for a difficult issue. When agreements are reached, the lawyer creates and files any legal documents needed to finalize resolved issues. In the unlikely event that the issues can not be resolved with One Lawyer services, the right to hire separate lawyers and go to court is preserved. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2865c127-f5b5-4715-a916-b9345126ce9d.jpg)
+# 
+
+is an intelligent and cost effective way to resolve a disagreement with a guarantee of no court battles. Both sides get help from one lawyer to learn all of the legal advice either side would have received if they had come in to meet separately with the lawyer. This does not create a conflict of interest because both sides agree to the process in the first place and the attorney is neutral, giving all legal advice and information to both sides at all times. 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2865c127-f5b5-4715-a916-b9345126ce9d.jpg)
 
 The lawyer makes sure filing deadlines are known and rights preserved. Any lawyer who provide One Lawyer services have ten or more years of subject area practice experience and excellent credentials. Less experienced lawyers can act as One Lawyer if they consult with such an experienced lawyer as a mentor to review each significant legal issue. The highest standards of legal practice must be used and the lawyer has an ethical duty not to allow parties to abuse an imbalance of power or to reach illegal or unethical agreements.
 
