@@ -1,6 +1,6 @@
 name: ascherdenton
 favicon: null
-layout_spectrum: 0.51895
+layout_spectrum: 0.25542
 typography_spectrum: 0.99549
 title: 'Olympia, Washington -Family Law with Compassion & Integrity'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4b4338'
     - '#b8bcae'
     - '#47161a'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.4720429196022451
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
