@@ -1,16 +1,15 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/our-philosophy.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Our Philosophy (The way we work)  Ascher & Denton, PLLC was created with some very clear goals in mind. We feel it is vitally important to assist our clients th'
-datePublished: '2015-12-05T21:56:13.808Z'
-dateModified: '2015-12-05T21:56:07.831Z'
+datePublished: '2015-12-06T01:01:22.248Z'
+dateModified: '2015-12-06T01:01:20.164Z'
 author: []
-title: ''
+title: Our Philosophy
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
 published: true
 authors: []
@@ -19,13 +18,15 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: our-philosophy/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+# **Our Philosophy**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdc8b7bb-912b-4e94-ad57-9e3d39009a9b.jpg)
 
-Our Philosophy (The way we work) Ascher & Denton, PLLC was created with some very clear goals in mind. We feel it is vitally important to assist our clients through controversies involving the legal system at the least cost to the client, financially and emotionally. Treating each other and others with respect is paramount. Compassion is important, as is clear thinking and honesty. We believe that inflicting unneeded costs (or pain) on others is a big mistake. 
+Ascher & Denton, PLLC was created with some very clear goals in mind. We feel it is vitally important to assist our clients through controversies involving the legal system at the least cost to the client, financially and emotionally. Treating each other and others with respect is paramount. Compassion is important, as is clear thinking and honesty. We believe that inflicting unneeded costs (or pain) on others is a big mistake. 
 
 A law of physics also applies to lawsuits: every action brings an equal and opposite reaction. We believe it is smart to be professionally courteous to opposing counsel and to opposing parties. We work hard to maintain our excellent reputation in the legal community. 
 
