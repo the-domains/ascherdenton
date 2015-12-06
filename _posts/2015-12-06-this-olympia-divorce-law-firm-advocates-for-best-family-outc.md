@@ -1,17 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
 description: This Olympia Divorce Law Firm Advocates for Best Family Outcomes Olympia lawyers seek dispute resolution with minimal expense and discord The dissolution of you
+datePublished: '2015-12-06T00:58:20.528Z'
+dateModified: '2015-12-06T00:58:17.464Z'
 author: []
-datePublished: '2015-12-06T00:31:38.005Z'
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
-dateModified: '2015-12-06T00:28:48.013Z'
 title: ''
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
+authors: []
+publisher:
+  name: ascherdenton.com
+  domain: www.ascherdenton.com
+  url: null
+  favicon: null
 url: this-olympia-divorce-law-firm-advocates-for-best-family-outc/index.html
 _context: 'http://schema.org'
 _type: Article
