@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/khrys-kayne.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Khrys Kayne, legal assistant    Khrys came to work at Ascher & Denton in late 2013 as an intern as she was nearing completion of her associate's degree at Spoka"
-datePublished: '2015-12-06T00:03:58.429Z'
-dateModified: '2015-12-06T00:03:54.140Z'
+datePublished: '2015-12-06T01:00:23.778Z'
+dateModified: '2015-12-06T01:00:20.405Z'
 author: []
 title: "Khrys Kayne, Legal Assistant\_"
 sourcePath: _posts/2015-12-05-khrys-kayne-legal-assistant-khrys-came-to-work-at-ascher.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: khrys-kayne-legal-assistant/index.html
 _context: 'http://schema.org'
 _type: Article
 
