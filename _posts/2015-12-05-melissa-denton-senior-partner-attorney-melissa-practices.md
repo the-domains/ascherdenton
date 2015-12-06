@@ -6,11 +6,11 @@ isBasedOnUrl: 'http://www.ascherdenton.com/melissa-denton.html'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Melissa Denton, senior partner attorney    Melissa practices only in the area of Family Law - including many things like: Divorce; Child Custody; Child Support;'
-datePublished: '2015-12-05T23:24:28.517Z'
-dateModified: '2015-12-05T23:24:11.529Z'
+description: ''
+datePublished: '2015-12-06T00:15:30.856Z'
+dateModified: '2015-12-06T00:15:04.631Z'
 author: []
-title: "Melissa Denton, senior partner attorney\_"
+title: "Melissa Denton, Family Law Attorney\_"
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
 published: true
 authors: []
@@ -31,16 +31,16 @@ Melissa's focus is on helping folks who want to resolve their cases with a minim
 
 One Lawyer
 
-Melissa has pioneered a new way of practicing law, called **One Lawyer**, and she also has a business called AdvantageDenton.com which finds the right lawyer for clients.
+Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on this page if it is possible that both sides may have the trust and respect necessary to work together for an agreed resolution of your case.
 
 Famous Case
 
-Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called _Rideout v. Rideout_,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003)
+Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called _Rideout v. Rideout_,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003). This case, and many other cases Melissa has worked on, have enriched her perspective and the large amount of experience she can draw upon from practicing family law since 1990\.
 
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
 
-More formal stuff --
+More formal types of information -Melissa Denton's credentials -
 
 Admitted to the Washington State Bar in 1989, as well as to practice before the US Federal District Court for Western Washington
 
@@ -50,4 +50,4 @@ Undergraduate Schools: Bachelor of Arts Degree and some Master's degree coursewo
 
 Bar Affiliations: Thurston County (Member, Family Law Section; Former President and Founding Member of Thurston County Young Lawyers) and Washington State (Former Member, Board of Trustees, Young Lawyers Division) Bar Associations
 
-Volunteer Work: Melissa volunteers in several capacities with her church, including past service on the board, service as vice-president and president of the board and several other committees and activities. She is also the volunteer attorney advising The Olympia Free Clinic and teaches and mentors other attorneys at the Thurston County Volunteer Legal Clinic.
+Volunteer Work: Melissa volunteers in several capacities with her church, including past service on the board, service as vice-president, president of the board and other committees and activities. She is also the volunteer attorney advising The Olympia Free Clinic and teaches and mentors other attorneys at the Thurston County Volunteer Legal Clinic.
