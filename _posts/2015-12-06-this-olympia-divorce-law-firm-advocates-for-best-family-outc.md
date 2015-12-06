@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This Olympia Divorce Law Firm Advocates for Best Family Outcomes Olympia lawyers seek dispute resolution with minimal expense and discord The dissolution of you
-datePublished: '2015-12-06T01:14:46.043Z'
-dateModified: '2015-12-06T01:14:40.040Z'
+datePublished: '2015-12-06T01:27:27.934Z'
+dateModified: '2015-12-06T01:27:18.661Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
@@ -45,3 +45,4 @@ Family law litigators by your side
 At Ascher & Denton, PLLC, our attorneys work hard to resolve divorce issues outside of court. We are courteous and respectful to all parties throughout the process and encourage our clients to take this approach, too. However, sometimes litigation is necessary to resolve your family's disputes. Having a strong litigator by your side can alleviate the uncertainty and stress of the arduous litigation process and help you obtain the most favorable trial outcome. Lawyers at Ascher & Denton, LLC use smart trial strategies to get the best result for you and your family throughout the litigation process. 
 
 Contact a family law attorney for a consultation Call Ascher & Denton, PLLC at 360-357-8669 or contact us by email (ascherdent\*at\*gmail.com) for an initial consultation on your divorce case. We are committed to delivering the best outcome for you and your family with minimal conflict and expense.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3507600e-25ed-4219-81e8-573edb329e6d.JPG)
