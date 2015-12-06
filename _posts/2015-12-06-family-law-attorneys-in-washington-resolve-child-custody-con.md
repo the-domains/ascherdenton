@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Family Law Attorneys in Washington Resolve Child Custody Conflicts   Compassionate lawyers have more than 20 years of experience negotiating\_ best outcomes for "
-datePublished: '2015-12-06T00:56:42.365Z'
-dateModified: '2015-12-06T00:56:38.369Z'
+datePublished: '2015-12-06T01:09:43.569Z'
+dateModified: '2015-12-06T01:09:40.550Z'
 author: []
-title: Washington Family Law Attorneys Resolving Child Custody Conflicts
+title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 published: true
 authors: []
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# **Washington Family Law Attorneys Resolving Child Custody Conflicts**
+# **Child Custody**
 
 Compassionate lawyers with more than 25 years of experience negotiating  best outcomes for families. 
 
