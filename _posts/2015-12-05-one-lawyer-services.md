@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: One Lawyer Services  Melissa Denton is available to provide these services where both parties meet with One Lawyer to get the legal advice and have the paperwor
-datePublished: '2015-12-06T00:59:55.300Z'
-dateModified: '2015-12-06T00:59:51.901Z'
+datePublished: '2015-12-06T02:02:28.436Z'
+dateModified: '2015-12-06T02:02:08.401Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
@@ -35,4 +35,4 @@ The lawyer makes sure filing deadlines are known and rights preserved. Any lawye
 
 One Lawyer can be used for many different areas of law and is particularly appropriate when people or companies don't want to make their issues a matter of public record more than necessary, such as in a business contract dispute, family law matter, or a neighborhood issue where privacy and ongoing relationships should be preserved.
 
-Some folks who now choose to represent themselves in court to save lawyer battle fees and/or the ugliness of hiring lawyers to fight each other, would be much better served with One Lawyer. One Lawyer services are not available everywhere. Clients want One Lawyer and are surprised when they learn that it may be difficult to find. It just makes so much sense to have one lawyer help both sides. While the Sage Lawyer may charge more per hour (and take fewer hours to accomplish things), the cost savings of sharing the cost of the lawyer services and avoiding court battles make this one of the least expensive ways to use an attorney. One Lawyer services are also sometimes available for a set fee instead of pay by the hour.
+Some folks, choose to represent themselves in court to save lawyer battle fees and/or the ugliness of hiring lawyers to fight each other. Often, they would be much better served with One Lawyer. The cost savings of sharing the expense of legal services and avoiding the pain and drain of court battles make this one of the least expensive ways to use an attorney. One Lawyer services are usually available for a set fee instead of pay by the hour.
