@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T01:21:58.528Z'
-dateModified: '2015-12-06T01:21:54.272Z'
+datePublished: '2015-12-06T01:23:32.514Z'
+dateModified: '2015-12-06T01:23:08.729Z'
 author: []
 title: 'Minimize Pain & Expense'
 sourcePath: _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
@@ -23,7 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# 
+# **Minimize Pain & Expense**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14fc757e-9806-48ec-95c3-166fb0c2d0ce.JPG)
 
 Since 1990, Ascher & Denton lawyers have been achieving the best family outcomes with minimal conflict and expense.
 
