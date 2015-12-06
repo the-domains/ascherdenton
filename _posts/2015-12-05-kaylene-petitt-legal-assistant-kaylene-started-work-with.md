@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Kaylene Petitt, legal assistant    Kaylene started work with Ascher & Denton in January of 2008, after finishing her bachelor's degree at The Evergreen State Co"
-datePublished: '2015-12-05T21:53:46.483Z'
-dateModified: '2015-12-05T21:53:01.078Z'
+datePublished: '2015-12-06T00:02:04.484Z'
+dateModified: '2015-12-06T00:01:57.616Z'
 author: []
-title: ''
+title: 'Kaylene Petitt, Law Clerk'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
 published: true
 authors: []
@@ -23,5 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Kaylene Petitt, legal assistant Kaylene started work with Ascher & Denton in January of 2008, after finishing her bachelor's degree at The Evergreen State College, emphasizing United States History and Visual Arts.  Little did she know before that how very well suited she is for working in a family law office. Since then, through many life changes and many many residence moves, Kaylene is a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. In addition to her role as Legal Assistant, Kaylene is looking forward to becoming a Law Clerk with Melissa Denton's mentoring and ultimately an associate attorney with this firm. She also enjoys cooking and sharing delicious food, taking pictures of her cat, and being a newlywed.
+# **Kaylene Petitt, Law Clerk**
+
+In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her bachelor's degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers.  Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. In mid 2015, Kaylene started her four year course of study as a Law Clerk (with Melissa Denton's mentoring) to become an attorney with this firm. She also enjoys cooking and sharing delicious food, taking pictures of her cat, and being a newlywed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8326c930-08b2-40d9-bc87-7689393b608f.jpg)
