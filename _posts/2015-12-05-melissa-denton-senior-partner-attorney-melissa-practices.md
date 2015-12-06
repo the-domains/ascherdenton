@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T01:34:53.305Z'
-dateModified: '2015-12-06T01:34:50.180Z'
+datePublished: '2015-12-06T01:44:04.955Z'
+dateModified: '2015-12-06T01:43:51.209Z'
 author: []
 title: Melissa Denton
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -31,7 +31,7 @@ Melissa's focus is on helping folks who want to resolve their cases with a minim
 
 One Lawyer
 
-Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on this page if it is possible that both sides may have the trust and respect necessary to work together for an agreed resolution of your case.
+Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on our website if it is possible that both sides may have the trust and respect necessary to work together for an agreed resolution of your case.
 
 Famous Case
 
@@ -40,7 +40,7 @@ Melissa represented a client from the beginning of a divorce though two appellat
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
 
-More formal types of information -Melissa Denton's credentials -
+**-Melissa Denton's credentials** -
 
 Admitted to the Washington State Bar in 1989, as well as to practice before the US Federal District Court for Western Washington
 
