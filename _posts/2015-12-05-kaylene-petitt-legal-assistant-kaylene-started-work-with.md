@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/kaylene-petitt.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Kaylene Petitt, legal assistant    Kaylene started work with Ascher & Denton in January of 2008, after finishing her bachelor's degree at The Evergreen State Co"
-datePublished: '2015-12-06T00:02:04.484Z'
-dateModified: '2015-12-06T00:01:57.616Z'
+datePublished: '2015-12-06T01:00:47.431Z'
+dateModified: '2015-12-06T01:00:45.115Z'
 author: []
 title: 'Kaylene Petitt, Law Clerk'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: kaylene-petitt-law-clerk/index.html
 _context: 'http://schema.org'
 _type: Article
 
