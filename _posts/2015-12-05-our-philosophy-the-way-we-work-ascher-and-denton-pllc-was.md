@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Our Philosophy (The way we work)  Ascher & Denton, PLLC was created with some very clear goals in mind. We feel it is vitally important to assist our clients th'
-datePublished: '2015-12-06T01:01:22.248Z'
-dateModified: '2015-12-06T01:01:20.164Z'
+description: ''
+datePublished: '2015-12-06T01:35:34.283Z'
+dateModified: '2015-12-06T01:35:31.447Z'
 author: []
 title: Our Philosophy
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
