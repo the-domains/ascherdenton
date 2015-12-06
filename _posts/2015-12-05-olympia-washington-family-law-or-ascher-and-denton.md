@@ -17,8 +17,8 @@ keywords:
   - lawyer
   - construed
 description: 'Family law attorneys in Olympia, Washington. Compassionate and efficient help through divorce and child custody problems.'
-datePublished: '2015-12-05T22:41:08.235Z'
-dateModified: '2015-12-05T22:41:00.059Z'
+datePublished: '2015-12-06T01:41:31.997Z'
+dateModified: '2015-12-06T01:41:28.695Z'
 author: []
 related: []
 app_links: []
@@ -40,6 +40,8 @@ _type: MediaObject
 <article style=""><h1>Olympia, Washington, Family Law Firm | Ascher &amp; Denton, PLLC</h1><p>Family law attorneys in Olympia, Washington. Compassionate and efficient help through divorce and child custody problems.</p></article>
 
 call us at: 360-357-8669 
+
+email us at: ascherdent\*at\*gmail.com
 
 find us at: 2401 Bristol Ct. SW \#A-101, Olympia, WA 98512
 
