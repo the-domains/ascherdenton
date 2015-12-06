@@ -1,17 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
 description: 'Lawyers Who Help Families Minimize Pain & Expense  Since 1990, achieving best family outcomes with minimal conflict and expense Located in Olympia, Washington, '
+datePublished: '2015-12-06T00:59:23.201Z'
+dateModified: '2015-12-06T00:59:19.134Z'
 author: []
-datePublished: '2015-12-06T00:31:38.013Z'
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
-dateModified: '2015-12-06T00:21:27.394Z'
 title: ''
 sourcePath: _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
+authors: []
+publisher:
+  name: ascherdenton.com
+  domain: www.ascherdenton.com
+  url: null
+  favicon: null
 url: lawyers-who-help-families-minimize-pain-and-expense-since-199/index.html
 _context: 'http://schema.org'
 _type: Article
