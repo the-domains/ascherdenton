@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Ascher & Denton, family law/custody/divorce/child support attorneys'
-datePublished: '2015-12-06T01:06:06.357Z'
-dateModified: '2015-12-06T01:05:56.165Z'
+datePublished: '2015-12-06T01:42:23.285Z'
+dateModified: '2015-12-06T01:42:17.221Z'
 title: 'Olympia, Washington Family Law & Divorce Lawyers'
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
