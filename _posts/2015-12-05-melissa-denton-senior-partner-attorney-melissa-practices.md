@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T01:01:54.114Z'
-dateModified: '2015-12-06T01:01:51.115Z'
+datePublished: '2015-12-06T01:34:53.305Z'
+dateModified: '2015-12-06T01:34:50.180Z'
 author: []
-title: "Melissa Denton, Family Law Attorney\_"
+title: Melissa Denton
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
 published: true
 authors: []
