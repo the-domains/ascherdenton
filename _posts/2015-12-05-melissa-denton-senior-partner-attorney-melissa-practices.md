@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/melissa-denton.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T00:15:30.856Z'
-dateModified: '2015-12-06T00:15:04.631Z'
+datePublished: '2015-12-06T01:01:54.114Z'
+dateModified: '2015-12-06T01:01:51.115Z'
 author: []
 title: "Melissa Denton, Family Law Attorney\_"
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: melissa-denton-family-law-attorney/index.html
 _context: 'http://schema.org'
 _type: Article
 
