@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/child-custody.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Family Law Attorneys in Washington Resolve Child Custody Conflicts   Compassionate lawyers have more than 20 years of experience negotiating\_ best outcomes for "
-datePublished: '2015-12-06T00:53:03.056Z'
-dateModified: '2015-12-06T00:52:59.806Z'
+datePublished: '2015-12-06T00:56:42.365Z'
+dateModified: '2015-12-06T00:56:38.369Z'
 author: []
 title: Washington Family Law Attorneys Resolving Child Custody Conflicts
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: washington-family-law-attorneys-resolving-child-custody-conf/index.html
 _context: 'http://schema.org'
 _type: Article
 
