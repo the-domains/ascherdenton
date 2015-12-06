@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/one-lawyer-services.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: One Lawyer Services  Melissa Denton is available to provide these services where both parties meet with One Lawyer to get the legal advice and have the paperwor
-datePublished: '2015-12-05T23:47:05.381Z'
-dateModified: '2015-12-05T23:46:54.909Z'
+datePublished: '2015-12-06T00:59:55.300Z'
+dateModified: '2015-12-06T00:59:51.901Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: one-lawyer/index.html
 _context: 'http://schema.org'
 _type: Article
 
