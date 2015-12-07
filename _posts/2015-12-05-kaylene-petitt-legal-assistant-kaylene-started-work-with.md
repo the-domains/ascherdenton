@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T19:35:13.750Z'
-dateModified: '2015-12-07T19:35:10.825Z'
+datePublished: '2015-12-07T19:42:12.602Z'
+dateModified: '2015-12-07T19:42:07.576Z'
 author: []
 title: 'Kaylene Petitt, Law Clerk'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -31,7 +31,7 @@ Now a Law Clerk (2015-2019)
 
 Future Attorney (in about 2020)
 
-In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her bachelor's degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers.  Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. 
+In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her Bachelor's Degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers.  Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. 
 
 In mid 2015, Kaylene started her four year course of study as a Law Clerk (with Melissa Denton's mentoring) to become an attorney with this firm. 
 
