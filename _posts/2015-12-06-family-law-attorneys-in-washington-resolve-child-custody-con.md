@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T02:06:31.397Z'
-dateModified: '2015-12-06T02:06:26.906Z'
+datePublished: '2015-12-08T01:31:14.261Z'
+dateModified: '2015-12-08T01:29:50.298Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
@@ -48,4 +48,4 @@ By your side in litigation
 
 Litigation may be necessary to protect your children's best interests. If negotiations fail or the other parent is a danger to your child's well-being, the courtroom provides an essential forum for establishing your parental rights. The uncertainty of litigation can add to the stress and upheaval of this time. But with an experienced Ascher & Denton family law attorney by your side, you can feel confident that your children will be protected and your parental rights remain secure. 
 
-Call Ascher & Denton, PLLC at 360-357-8669 or contact us by email (ascherdent\*at\*gmail.com) for an initial consultation. We are committed to getting the best outcome for your family law issue.
+Call Ascher & Denton, PLLC at 360-357-8669 or contact us by email -ascherdent\*at\*gmail.com (replace the \*at\* with @ so we know you are not a spambot) for an initial consultation. We are committed to getting the best outcome for your family law issue.
