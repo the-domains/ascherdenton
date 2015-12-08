@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: Home
-datePublished: '2015-12-07T19:30:38.391Z'
-dateModified: '2015-12-07T19:30:36.194Z'
+datePublished: '2015-12-08T00:09:14.523Z'
+dateModified: '2015-12-08T00:09:06.360Z'
 title: 'Olympia, Washington Family Law & Divorce Lawyers'
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: olympia-washington-family-law-and-divorce-lawyers/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## 
