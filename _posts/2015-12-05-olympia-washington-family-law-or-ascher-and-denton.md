@@ -17,8 +17,8 @@ keywords:
   - lawyer
   - construed
 description: 'Family law attorneys in Olympia, Washington. Compassionate and efficient help through divorce and child custody problems.'
-datePublished: '2015-12-06T01:41:31.997Z'
-dateModified: '2015-12-06T01:41:28.695Z'
+datePublished: '2015-12-08T01:20:00.695Z'
+dateModified: '2015-12-08T01:19:56.992Z'
 author: []
 related: []
 app_links: []
@@ -41,7 +41,7 @@ _type: MediaObject
 
 call us at: 360-357-8669 
 
-email us at: ascherdent\*at\*gmail.com
+email us at: ascherdent\*at\*gmail.com (substitute @ for the \*at\* and then                                                                      we will know that you are not a spambot) 
 
 find us at: 2401 Bristol Ct. SW \#A-101, Olympia, WA 98512
 
