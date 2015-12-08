@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'including many things like: Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative'
-datePublished: '2015-12-06T01:55:24.968Z'
-dateModified: '2015-12-06T01:55:19.327Z'
+datePublished: '2015-12-08T01:16:38.594Z'
+dateModified: '2015-12-08T01:16:35.505Z'
 author: []
-title: "At Ascher & Denton, we only practice Family Law.\_"
+title: "We only practice Family Law.\_"
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
 published: true
 authors: []
