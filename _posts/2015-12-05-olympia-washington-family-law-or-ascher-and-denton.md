@@ -17,8 +17,8 @@ keywords:
   - lawyer
   - construed
 description: 'Family law attorneys in Olympia, Washington. Compassionate and efficient help through divorce and child custody problems.'
-datePublished: '2015-12-08T01:20:00.695Z'
-dateModified: '2015-12-08T01:19:56.992Z'
+datePublished: '2015-12-09T01:16:30.831Z'
+dateModified: '2015-12-09T01:16:24.269Z'
 author: []
 related: []
 app_links: []
