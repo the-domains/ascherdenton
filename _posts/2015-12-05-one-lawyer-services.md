@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: One Lawyer Services  Melissa Denton is available to provide these services where both parties meet with One Lawyer to get the legal advice and have the paperwor
-datePublished: '2015-12-06T02:02:28.436Z'
-dateModified: '2015-12-06T02:02:08.401Z'
+datePublished: '2015-12-09T01:17:05.808Z'
+dateModified: '2015-12-09T01:17:02.456Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
