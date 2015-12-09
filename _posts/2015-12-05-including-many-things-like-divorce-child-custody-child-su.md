@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'including many things like: Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative'
-datePublished: '2015-12-08T01:26:47.744Z'
-dateModified: '2015-12-08T01:26:44.350Z'
+datePublished: '2015-12-09T01:13:39.349Z'
+dateModified: '2015-12-09T01:13:31.356Z'
 author: []
 title: "We only practice Family Law.\_"
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/761afc44-ffac-45c3-b753-56df0d5dd729.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad35f343661833ad9f24bbbcce16a129c817e8e.jpg)
 
 **At Ascher & Denton, we only practice Family Law. **
 
@@ -37,7 +37,7 @@ If you think that we are simple folk who only do the same thing over and over, t
 Family law specifically includes many kinds of cases, including (but not limited to): 
 
 Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative Family Law; Community Property Law; Divorce Arbitration; Divorce Mediation; Divorce Taxation; Domestic Partnerships; Domestic Relations; Domestic Violence; Equitable Distribution; Family Arbitration; Family Mediation; Gay and Lesbian Family Law; International Family Law; Interstate Support; Marital Agreements; Marital Property Distribution; Marital Property Law; Marital Property Settlements; Matrimonial Law; Military Divorce; Non-Traditional Family Law; Paternity; Post Divorce Modification; Postnuptial Agreements; Premarital Agreements; Qualified Domestic Relations Orders (QDROs); Restraining Orders; Separation Agreements; Spousal Support; Uncontested Divorce
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/760b567e-2c5e-4bc2-9fdc-e93bfcf77553.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7832ce54a3e09d3d7c12bc7660f68a81114187b8.jpg)
 
 We are not just trying to toot our horn here. 
 
