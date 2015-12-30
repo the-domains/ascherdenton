@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T01:46:53.701Z'
-dateModified: '2015-12-30T01:46:41.010Z'
+datePublished: '2015-12-30T02:05:21.192Z'
+dateModified: '2015-12-30T02:05:13.617Z'
 title: Home
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ## 
 
-Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d8df0ee-9579-4ec3-b210-0c909f3d3a52.jpg)
+Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60d3224b951529d3c6f0f2e378040103080369a6.jpg)
 
 Since 1990, Ascher & Denton has been providing top quality legal services to families in Thurston County. We focus on helping people through the legal process at the least cost, emotionally and financially. 
 
