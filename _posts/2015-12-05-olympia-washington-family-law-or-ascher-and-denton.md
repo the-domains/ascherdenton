@@ -15,13 +15,13 @@ keywords:
   - thurston
   - lawyer
   - construed
-description: 'Family law attorneys in Olympia, Washington. Compassionate and efficient help through divorce and child custody problems.'
-datePublished: '2015-12-30T01:56:34.286Z'
-dateModified: '2015-12-30T01:56:26.429Z'
+description: ''
+datePublished: '2015-12-30T02:32:27.450Z'
+dateModified: '2015-12-30T02:32:22.558Z'
 author: []
 related: []
 app_links: []
-title: 'Olympia, Washington, Family Law | Ascher & Denton'
+title: Find Us
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 published: true
 authors: []
@@ -37,9 +37,9 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6db2a2c-d1a6-415b-aa3a-8c1dc6da7e55.JPG)
 
-call us at: 360-357-8669 
+call us at:****360-357-8669 
 
-email us at: ascherdent\*at\*gmail.com (substitute @ for the \*at\* and then we will know that a real human is emailing) 
+email us at: ascherdent\*at\*gmai l.com (substitute @ for the \*at\* and no space between letters then we will know that a real human is emailing) 
 
 find us at: 2401 Bristol Ct. SW \#A-101, Olympia, WA 98512
 
