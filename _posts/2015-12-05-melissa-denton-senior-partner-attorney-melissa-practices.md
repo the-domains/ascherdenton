@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T20:11:48.016Z'
-dateModified: '2015-12-30T20:11:00.348Z'
+datePublished: '2015-12-30T20:22:22.410Z'
+dateModified: '2015-12-30T20:22:19.136Z'
 author: []
 title: Melissa Denton
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
