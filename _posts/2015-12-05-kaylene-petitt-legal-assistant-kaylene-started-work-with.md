@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T03:07:27.852Z'
-dateModified: '2015-12-30T03:07:24.220Z'
+datePublished: '2015-12-30T03:11:50.185Z'
+dateModified: '2015-12-30T03:11:46.163Z'
 author: []
-title: 'Kaylene Petitt, Law Clerk'
+title: "\_ \_ \_ \_ \_ ~Our Team ~"
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
 published: true
 authors: []
@@ -23,6 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# **~Our Team ~**
+
 # **Kaylene Petitt, Law Clerk**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15ba0a3e-5e5c-41cf-9bd7-db21159b187e.jpg)
 
@@ -48,6 +50,7 @@ Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nea
 Khrys is now enrolled at The Evergreen State College (Kaylene's and Jim's alma mater) where she will complete her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She will celebrate twelve years clean from drug use on January 1, 2016\. Khrys is contemplating what her next career goals will be. She may decide to become an attorney and many of our clients would approve heartily.
 
 # **James Ascher, Retired Attorney**
+null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3aaeff-1112-442c-a971-e695f90efa5e.jpg)
 
 Jim Ascher and Melissa Denton joined their individual law firms in 1995\. At their first business meeting, Jim made a solemn announcement: "We have good news and we have bad news." Melissa asked for the good news. "The good news is - we qualify for food stamps." 
