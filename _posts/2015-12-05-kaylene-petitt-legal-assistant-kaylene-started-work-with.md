@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-09T01:15:38.424Z'
-dateModified: '2015-12-09T01:15:35.781Z'
+datePublished: '2015-12-30T02:29:07.963Z'
+dateModified: '2015-12-30T02:28:12.543Z'
 author: []
 title: 'Kaylene Petitt, Law Clerk'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
