@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This Olympia Divorce Law Firm Advocates for Best Family Outcomes Olympia lawyers seek dispute resolution with minimal expense and discord The dissolution of you
-datePublished: '2015-12-30T02:21:40.763Z'
-dateModified: '2015-12-30T02:21:30.119Z'
+datePublished: '2015-12-30T20:31:48.809Z'
+dateModified: '2015-12-30T20:31:36.284Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
@@ -50,6 +50,6 @@ Contact a family law attorney for a consultation Call Ascher & Denton, PLLC at
 
 or contact us by email 
 
-**ascherdent\*at\*gmail. com **(replace \*at\* with @ and no spaces in email address) 
+**ascherdent\*at\*gmail. com **(replace \*at\* with @) 
 
 for an initial consultation on your family law case. We are committed to delivering the best outcome for you and your family with minimal conflict and expense.
