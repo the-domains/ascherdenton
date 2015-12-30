@@ -16,8 +16,8 @@ keywords:
   - lawyer
   - construed
 description: ''
-datePublished: '2015-12-30T02:32:27.450Z'
-dateModified: '2015-12-30T02:32:22.558Z'
+datePublished: '2015-12-30T02:35:36.983Z'
+dateModified: '2015-12-30T02:35:06.314Z'
 author: []
 related: []
 app_links: []
@@ -39,7 +39,7 @@ _type: MediaObject
 
 call us at:****360-357-8669 
 
-email us at: ascherdent\*at\*gmai l.com (substitute @ for the \*at\* and no space between letters then we will know that a real human is emailing) 
+email us at: ascherdent\*at\*gmail.com (substitute @ for the \*at\*) 
 
 find us at: 2401 Bristol Ct. SW \#A-101, Olympia, WA 98512
 
