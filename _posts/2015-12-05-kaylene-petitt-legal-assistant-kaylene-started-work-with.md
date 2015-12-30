@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T03:11:50.185Z'
-dateModified: '2015-12-30T03:11:46.163Z'
+datePublished: '2015-12-30T20:00:17.227Z'
+dateModified: '2015-12-30T19:59:57.856Z'
 author: []
 title: "\_ \_ \_ \_ \_ ~Our Team ~"
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -24,6 +24,7 @@ _type: Article
 
 ---
 # **~Our Team ~**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8167b54d-ce34-4aab-83ea-e998f61cc553.jpg)
 
 # **Kaylene Petitt, Law Clerk**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15ba0a3e-5e5c-41cf-9bd7-db21159b187e.jpg)
@@ -50,7 +51,6 @@ Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nea
 Khrys is now enrolled at The Evergreen State College (Kaylene's and Jim's alma mater) where she will complete her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She will celebrate twelve years clean from drug use on January 1, 2016\. Khrys is contemplating what her next career goals will be. She may decide to become an attorney and many of our clients would approve heartily.
 
 # **James Ascher, Retired Attorney**
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3aaeff-1112-442c-a971-e695f90efa5e.jpg)
 
 Jim Ascher and Melissa Denton joined their individual law firms in 1995\. At their first business meeting, Jim made a solemn announcement: "We have good news and we have bad news." Melissa asked for the good news. "The good news is - we qualify for food stamps." 
@@ -58,3 +58,8 @@ Jim Ascher and Melissa Denton joined their individual law firms in 1995\. At the
 Fortunately, Jim was kidding and a very enjoyable law practice has continued ever since. Jim is still in touch frequently, but he retired fully from the practice of law at the end of 2014\. 
 
 Jim's former careers in network news and with the US Foreign Service certainly added spice to the mix and his wise advice and good humor still add to the quality of this law firm.
+
+# **Traci Zawlocki, Books & Business**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a8d8d3-4ab9-4409-a7e0-d4786705ff7f.jpg)
+
+Traci came to work with Ascher & Denton in 2015, in the nick of time. She has an accounting degree and is a registered agent with the IRS and knows all things numbers and business finance. Her part time work to help keep the Ascher & Denton ship running right is greatly appreciated and her abilities with calculating may be called upon even more in the future as we make sure to get the numbers perfectly right in every case as well as in our business operations.
