@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T02:37:10.648Z'
-dateModified: '2015-12-30T02:37:02.292Z'
+datePublished: '2015-12-30T20:11:48.016Z'
+dateModified: '2015-12-30T20:11:00.348Z'
 author: []
 title: Melissa Denton
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -31,7 +31,7 @@ Melissa's focus is on helping folks who want to resolve their cases with a minim
 
 **One Lawyer**
 
-Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on our website if it is possible that both sides may have the trust and respect necessary to work together for an agreed resolution of your case.
+Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on our website. It works wonderfully when both sides have the trust and respect necessary to work together for an agreed, no court needed, resolution.
 
 **Famous Case**
 
