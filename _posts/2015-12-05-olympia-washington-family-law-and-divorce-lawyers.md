@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T01:26:24.235Z'
-dateModified: '2015-12-30T01:26:20.014Z'
+datePublished: '2015-12-30T01:46:53.701Z'
+dateModified: '2015-12-30T01:46:41.010Z'
 title: Home
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: home/index.html
+_type: Article
 
 ---
 ## 
