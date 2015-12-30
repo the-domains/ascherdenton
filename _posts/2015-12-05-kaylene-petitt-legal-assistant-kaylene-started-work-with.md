@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T03:05:26.890Z'
-dateModified: '2015-12-30T03:05:04.574Z'
+datePublished: '2015-12-30T03:07:27.852Z'
+dateModified: '2015-12-30T03:07:24.220Z'
 author: []
 title: 'Kaylene Petitt, Law Clerk'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -24,9 +24,13 @@ _type: Article
 
 ---
 # **Kaylene Petitt, Law Clerk**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2297b08-f03f-4de0-b757-26fdb9f0419e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15ba0a3e-5e5c-41cf-9bd7-db21159b187e.jpg)
 
-Now a Law Clerk (2015-2019)  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fddd9e3d278e9f634aeedbbb7428b9afc7629b4.jpg)
+Formerly Legal Assistant (2008-2015)  
+
+Formerly Legal Assistant (2008-2015)  
+
+Now a Law Clerk (2015-2019)  
 
 Future Attorney (in about 2020)
 
@@ -35,5 +39,19 @@ In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. 
 In mid 2015, Kaylene started her four year course of study as a Law Clerk (with Melissa Denton's mentoring) to become an attorney with this firm. 
 
 She also enjoys cooking and sharing delicious food, taking pictures of her cat, and being a newlywed.
+
+# **Khrys Kayne, Legal Assistant**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97b473e-87e6-4cc0-a685-18bb498975b5.jpg)
+
+Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nearing completion of her Associate's Degree at Spokane Community College. She proved herself so invaluable that she came to work here permanently as a legal assistant in January of 2014\. 
+
+Khrys is now enrolled at The Evergreen State College (Kaylene's and Jim's alma mater) where she will complete her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She will celebrate twelve years clean from drug use on January 1, 2016\. Khrys is contemplating what her next career goals will be. She may decide to become an attorney and many of our clients would approve heartily.
+
+# **James Ascher, Retired Attorney**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3aaeff-1112-442c-a971-e695f90efa5e.jpg)
+
+Jim Ascher and Melissa Denton joined their individual law firms in 1995\. At their first business meeting, Jim made a solemn announcement: "We have good news and we have bad news." Melissa asked for the good news. "The good news is - we qualify for food stamps." 
+
+Fortunately, Jim was kidding and a very enjoyable law practice has continued ever since. Jim is still in touch frequently, but he retired fully from the practice of law at the end of 2014\. 
+
+Jim's former careers in network news and with the US Foreign Service certainly added spice to the mix and his wise advice and good humor still add to the quality of this law firm.
