@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.ascherdenton.com/melissa-denton.html'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'including many things like: Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative'
-datePublished: '2015-12-09T01:13:39.349Z'
-dateModified: '2015-12-09T01:13:31.356Z'
+datePublished: '2015-12-30T01:22:53.636Z'
+dateModified: '2015-12-30T01:22:33.070Z'
 author: []
 title: "We only practice Family Law.\_"
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+url: we-only-practice-family-law/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -39,6 +39,6 @@ Family law specifically includes many kinds of cases, including (but not limited
 Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative Family Law; Community Property Law; Divorce Arbitration; Divorce Mediation; Divorce Taxation; Domestic Partnerships; Domestic Relations; Domestic Violence; Equitable Distribution; Family Arbitration; Family Mediation; Gay and Lesbian Family Law; International Family Law; Interstate Support; Marital Agreements; Marital Property Distribution; Marital Property Law; Marital Property Settlements; Matrimonial Law; Military Divorce; Non-Traditional Family Law; Paternity; Post Divorce Modification; Postnuptial Agreements; Premarital Agreements; Qualified Domestic Relations Orders (QDROs); Restraining Orders; Separation Agreements; Spousal Support; Uncontested Divorce
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7832ce54a3e09d3d7c12bc7660f68a81114187b8.jpg)
 
-We are not just trying to toot our horn here. 
+**We are not just trying to toot our horn here. **
 
 Don't blame yourself if this is hard to go through. We are here to help and we make it as smooth and simple as we can while helping you to make the choices that will work out best for you and your loved ones in the long run while getting you through the immediate tough times in the best available way.
