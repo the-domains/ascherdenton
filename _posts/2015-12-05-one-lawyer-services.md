@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: One Lawyer Services  Melissa Denton is available to provide these services where both parties meet with One Lawyer to get the legal advice and have the paperwor
-datePublished: '2015-12-09T01:17:05.808Z'
-dateModified: '2015-12-09T01:17:02.456Z'
+description: ''
+datePublished: '2015-12-30T02:15:49.452Z'
+dateModified: '2015-12-30T02:15:46.025Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
@@ -31,8 +31,8 @@ is an intelligent and cost effective way to resolve a disagreement with a guaran
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2865c127-f5b5-4715-a916-b9345126ce9d.jpg)
 
-The lawyer makes sure filing deadlines are known and rights preserved. Any lawyer who provide One Lawyer services have ten or more years of subject area practice experience and excellent credentials. Less experienced lawyers can act as One Lawyer if they consult with such an experienced lawyer as a mentor to review each significant legal issue. The highest standards of legal practice must be used and the lawyer has an ethical duty not to allow parties to abuse an imbalance of power or to reach illegal or unethical agreements.
+The lawyer makes sure filing deadlines are known and rights are preserved. Any lawyer who provides One Lawyer services should have ten or more years of subject area practice experience and excellent credentials. Less experienced lawyers can act as One Lawyer if they consult with such an experienced lawyer as a mentor to review each significant legal issue. The highest standards of legal practice must be used and the lawyer has an ethical duty not to allow parties to abuse an imbalance of power or to reach illegal or unethical agreements.
 
-One Lawyer can be used for many different areas of law and is particularly appropriate when people or companies don't want to make their issues a matter of public record more than necessary, such as in a business contract dispute, family law matter, or a neighborhood issue where privacy and ongoing relationships should be preserved.
+One Lawyer can be used for many different areas of law and is particularly appropriate when people or companies don't want to make their issues a matter of public record more than necessary, such as in a business contract dispute, family law matter, or a neighborhood issue where privacy and ongoing relationships really should be preserved.
 
-Some folks, choose to represent themselves in court to save lawyer battle fees and/or the ugliness of hiring lawyers to fight each other. Often, they would be much better served with One Lawyer. The cost savings of sharing the expense of legal services and avoiding the pain and drain of court battles make this one of the least expensive ways to use an attorney. One Lawyer services are usually available for a set fee instead of pay by the hour.
+Some folks choose to represent themselves in court to save lawyer battle fees and/or the ugliness of hiring lawyers to fight each other. Often, they would be much better served with One Lawyer. The cost savings of sharing the expense of legal services and avoiding the pain and drain of court battles make this one of the least expensive ways to use an attorney. One Lawyer services are usually available for a set fee instead of pay by the hour.
