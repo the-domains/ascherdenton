@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T01:31:14.261Z'
-dateModified: '2015-12-08T01:29:50.298Z'
+datePublished: '2015-12-30T01:21:19.350Z'
+dateModified: '2015-12-30T01:20:57.273Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
@@ -40,12 +40,12 @@ Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experie
 * Enforcement of orders 
 * Decisions related to religion, education and upbringing of the child
 
-Mediation: a tool for cooperation 
+**Mediation: a tool for cooperation **
 
 Children are best served when parents maintain a cordial relationship. Through the structured process of mediation, parents can set aside enmity and agree on key points concerning their children. Mediation can be a highly effective tool, helping you preserve your children's well-being and the stability of their lives during the turbulent process of divorce. The predictability of mediation reduces the stress of child custody conflicts and puts important child-rearing decisions in your hands, rather than in the hands of the court. Attorneys at Ascher & Denton, PLLC expertly guide negotiations towards a settlement that protects your child's best interests and your parental rights. 
 
-By your side in litigation 
+**By your side in litigation **
 
 Litigation may be necessary to protect your children's best interests. If negotiations fail or the other parent is a danger to your child's well-being, the courtroom provides an essential forum for establishing your parental rights. The uncertainty of litigation can add to the stress and upheaval of this time. But with an experienced Ascher & Denton family law attorney by your side, you can feel confident that your children will be protected and your parental rights remain secure. 
 
-Call Ascher & Denton, PLLC at 360-357-8669 or contact us by email -ascherdent\*at\*gmail.com (replace the \*at\* with @ so we know you are not a spambot) for an initial consultation. We are committed to getting the best outcome for your family law issue.
+Call Ascher & Denton, PLLC at 360-357-8669 or contact us by email -ascherdent\*at\*gmail.com (replace the \*at\* with @ so we know you are a real person) for an initial consultation. We are committed to getting the best outcome for your family law issue.
