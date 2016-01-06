@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T18:49:52.173Z'
-dateModified: '2016-01-06T18:49:47.429Z'
+datePublished: '2016-01-06T23:52:10.954Z'
+dateModified: '2016-01-06T23:52:01.191Z'
 author: []
-title: "\_ \_ \_ \_ \_ ~Our Team ~"
+title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
 published: true
 authors: []
