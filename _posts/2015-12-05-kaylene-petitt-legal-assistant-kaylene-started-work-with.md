@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T20:23:34.721Z'
-dateModified: '2015-12-30T20:23:30.795Z'
+datePublished: '2016-01-06T18:49:52.173Z'
+dateModified: '2016-01-06T18:49:47.429Z'
 author: []
 title: "\_ \_ \_ \_ \_ ~Our Team ~"
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
