@@ -1,4 +1,4 @@
-<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Divorce Help in Olympia - ascherdenton</title><link href="../rss.xml" title="Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW #A-101, Olympia, WA  feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.16.25"><meta name="the-grid-solution" content="12d750ce-892f-4ce9-a916-e25900e93048"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
+<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Divorce Help in Olympia - ascherdenton</title><link href="../rss.xml" title="Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW #A-101, Olympia, WA  feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.17.3"><meta name="the-grid-solution" content="7a381b22-bf60-4e95-b2c7-b7faa55dcf3a"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
 @media (min-width: 15.6875em)and (max-width: 15.75em){	html{font-size:3.28125em !important}}
 @media (min-width: 15.8125em)and (max-width: 16.25em){	html{font-size:3.375em !important}}
 @media (min-width: 16.3125em)and (max-width: 16.6875em){html{font-size:3.46875em !important}}
@@ -202,6 +202,14 @@ body {
 }
 .stack {
   z-index: 1;
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+}
+.group,
+.aside,
+.decoration {
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
 }
 picture {
   display: inline-block;
@@ -250,6 +258,9 @@ a:active {
   transition: color 0.1s ease-in, background-color 0.1s ease-out;
   -webkit-transition: color 0.1s ease-in, background-color 0.1s ease-out;
 }
+a.aside {
+  display: inline-block;
+}
 html.exporting a {
   transition: none;
 }
@@ -259,11 +270,21 @@ html.exporting a {
 .media > a {
   display: inline-block;
 }
+.media iframe {
+  transition: 0.3s opacity ease-in;
+  -webkit-transition: 0.3s opacity ease-in;
+}
 h1 a,
 h2 a,
 h3 a {
   font-weight: inherit;
   letter-spacing: inherit;
+}
+a {
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 .text-decoration {
   -webkit-box-decoration-break: clone;
@@ -277,36 +298,50 @@ h3 a {
   margin-left: 1.5em;
 }
 .decoration {
-  position: relative;
   pointer-events: none;
+}
+.svg {
+  position: relative;
   background-color: currentColor;
 }
-.decoration > svg {
+.svg > svg {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.decoration.connector > svg {
+.svg.connector > svg {
   width: 109%;
   height: 109%;
   margin-left: -2%;
 }
-.decoration path,
-.decoration ellipse,
-.decoration rect,
-.decoration polygon,
-.decoration circle {
+.svg path,
+.svg ellipse,
+.svg rect,
+.svg polygon,
+.svg circle {
   fill: currentColor;
 }
-.decoration mpath,
-.decoration line,
-.decoration polyline {
+.svg mpath,
+.svg line,
+.svg polyline {
   stroke: currentColor;
 }
-.svg.decoration {
+.svg {
   background-color: transparent;
+}
+.revealed .play.svg:after {
+  display: block;
+  width: 40px;
+  height: 40px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -20px;
+  background-color: currentColor;
+  content: "";
 }
 .colors-style-aside-border .publisher,
 .colors-style-aside-border .author {
@@ -486,7 +521,8 @@ ul {
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 3.244rem; width: 4.334rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 4.324rem; position: absolute; top: 0rem; left: 0.124rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.244rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -609,11 +645,12 @@ display: none;
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d:before{}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d >.group.mixed { text-align: left; }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed{font-size: 0.164rem; line-height: 0.244rem; height: 7.074rem; width: 6.844rem; position: absolute; top: 0rem; left: 0.184rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover{overflow: hidden; width: 6.404rem; height: 4.804rem; position: absolute; left: 0.224rem; top: 2.274rem;}
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover{overflow: hidden; width: 6.404rem; height: 4.804rem; position: absolute; left: 0.184rem; top: 2.274rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 4.804rem; width: 6.414rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 6.484rem; position: absolute; top: 0rem; left: 0.184rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.244rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -726,7 +763,8 @@ display: none;
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 3.244rem; width: 4.334rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 4.324rem; position: absolute; top: 0.064rem; left: 1.444rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.244rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -840,7 +878,8 @@ display: none;
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 4.864rem; width: 6.494rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 6.484rem; position: absolute; top: 0.094rem; left: 2.164rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.244rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -954,7 +993,8 @@ display: none;
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 6.084rem; width: 8.104rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.204rem; line-height: 0.304rem; width: 8.104rem; position: absolute; top: 0.124rem; left: 2.704rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.304rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -1064,11 +1104,12 @@ display: none;
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d:before{}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d >.group.mixed { text-align: left; }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed{font-size: 0.154rem; line-height: 0.234rem; height: 8.124rem; width: 13.504rem; position: absolute; top: 0rem; left: 1.804rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 6.084rem; position: absolute; left: 2.704rem; top: 1.944rem;}
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 6.084rem; position: absolute; left: 2.714rem; top: 1.944rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img{height: 6.084rem; width: 8.114rem; position: absolute; top: 0rem; left: 0rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph#u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph{font-size: 0.154rem; line-height: 0.234rem; width: 8.104rem; position: absolute; top: 0.124rem; left: 2.704rem;}
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph>p:nth-of-type(2){margin-top: 0.234rem;}
-#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a { color: rgb(150, 91, 87); }
 #u-0169c01d-4493-4387-a50e-cd7c1fb3197d#u-0169c01d-4493-4387-a50e-cd7c1fb3197d .group.mixed > .text.paragraph a:hover { color: rgb(160, 156, 146); }
@@ -1136,7 +1177,7 @@ display: none;
             </g>
         </g>
     </g>
-</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack textual i first_chapter w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data stack textual" itemid="7c6afa29-95a8-4724-96b8-e85b9f910a95" itemtype="text" diff_index="4" index="textual" kind="stack" score="5.75" missed="0.25" tag="article" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95"><div kind="group" index="textual" class="group textual group textual" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-headline"><span class="text-decoration" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-headline-span"><b data-grid-id="e1b5efb4-a3f2-4dbf-a999-95597af7b95c">Divorce Help in <wbr class="w480 w960"></wbr>Olympia</b></span></h1><div kind="text" index="paragraph" class="text-decoration medium medium_paragraph medium_text text paragraph text paragraph" specificity="0.25" itemprop="text" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-paragraph"><p><span class="first-letter">T</span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>he dissolution of your marriage is an emotional and <wbr class="w480 w960"></wbr>stressful event. The <wbr class="w481 w961 w1799"></wbr>compassionate attorneys at <wbr class="w480 w960"></wbr>Ascher & <wbr class="w1800"></wbr>Denton, PLLC help ease the legal strain of <wbr class="w481 w961 w1799"></wbr>divorce <wbr class="w480 w960"></wbr>so you can concentrate on the health and well-being of <wbr class="w480 w960"></wbr>your <wbr class="w1800"></wbr>family. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>With more than 25 years of experience in family law <wbr class="w480 w960"></wbr>matters, the attorneys at Ascher & <wbr class="w481 w961 w1799"></wbr>Denton, PLLC in <wbr class="w480 w960"></wbr>Olympia <wbr class="w1800"></wbr>take your individual needs into account as we seek <wbr class="w480 w960"></wbr>the best <wbr class="w481 w961 w1799"></wbr>possible results for you regarding: </p><p><b data-grid-id="64e34049-1175-444d-bace-7ae8ed53413f"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>We are also family law mediators who encourage <wbr class="w480 w960"></wbr>cooperation</b></p></div><ul kind="data" index="list" class="medium medium_list medium_data data list vfld-trailer data list" specificity="0.25" itemprop="list" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-d-list"><li>Child custody and visitation rights </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Child support </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Distribution of personal property, bank accounts, stocks <wbr class="w480 w960"></wbr>and other assets </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Division of marital debts </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Sale or possession of the marital home </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Spousal support and temporary support </li></ul><div kind="decoration" index="separator" class="decoration separator decoration separator" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-d-separator"></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack mixed i w_cover w_media w_paragraph w_text w_decoration media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text stack mixed" itemid="0169c01d-4493-4387-a50e-cd7c1fb3197d" itemtype="text" diff_index="0" index="mixed" kind="stack" score="5.625" missed="0.375" tag="article" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d"><div kind="group" index="mixed" class="group mixed group mixed" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed"><a kind="media" index="cover" class="vfld media cover vfld-trailer media cover" specificity="0.25" itemprop="cover" max-width="2048" max-height="1536" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover"><picture id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5137e737294eeeebdaf47a2fcab1a4b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=608&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/646bc0fab02c0414e7caefc04f4e1a7a/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=1216&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/91b47e65e02ac8f66d64761e82e4fae7/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=608&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=811, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb1f050127c332f11a0e70e6750a1216/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=1216&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1622 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2e6b358cc54553ff0bee6d056bfc947/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=324&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=433, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/493f97a158343a5f93c99c8135040531/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=648&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=866 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4eeebbc55b33222dcaf6902908cbf46f/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=487&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=649, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f7321cce56c2954327c64055b445d01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=974&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1298 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2e6b358cc54553ff0bee6d056bfc947/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=324&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=433, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/493f97a158343a5f93c99c8135040531/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=648&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=866 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4de4dd0b85329fb8fb03ea572fbdedc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=480&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=641, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6aac8298b67056baa81ee79fcec4e67/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=960&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1282 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader text paragraph" specificity="0.25" itemprop="text" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph"><p><span class="first-letter">M</span>ediation gives you and your spouse the opportunity to <wbr class="w480 w960"></wbr>negotiate a divorce <wbr class="w1799"></wbr>settlement <wbr class="w481 w961"></wbr>in a more amicable setting <wbr class="w480 w960 w1800"></wbr>by working with a trained facilitator. The <wbr class="w1799"></wbr>mediation process <wbr class="w480 w481 w960 w961"></wbr>fosters cooperation between partners and produces less <wbr class="w480 w960 w1800"></wbr>stress and <wbr class="w1799"></wbr>hostility than is <wbr class="w481 w961"></wbr>usually associated with <wbr class="w480 w960"></wbr>litigation. Mediation often reduces the time <wbr class="w1799"></wbr>and costs of <wbr class="w480 w960"></wbr>divorce, <wbr class="w481 w961 w1800"></wbr>and it puts the decisions in your hands. The <wbr class="w480 w960"></wbr>experienced <wbr class="w1799"></wbr>negotiators at Ascher & Denton, <wbr class="w481 w961"></wbr>PLLC can <wbr class="w480 w960"></wbr>help you obtain <wbr class="w1800"></wbr>the most equitable divorce <wbr class="w1799"></wbr>settlement, fair <wbr class="w480 w960"></wbr>child support <wbr class="w481 w961"></wbr>agreement and healthy child custody <wbr class="w480 w960"></wbr>arrangement. </p><p><b> <wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Family law litigators by your side</b></p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i last_chapter w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="dded79ae-6bd5-44c2-9276-a36a62ae25ea" itemtype="text" diff_index="1" index="column" kind="stack" score="2.625" missed="0.375" tag="article" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea"><div kind="group" index="column" class="group column group column" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea-g-column-t-paragraph"><p><span class="first-letter">A</span>t Ascher & Denton, PLLC, our attorneys work hard to <wbr class="w480 w960"></wbr>resolve divorce issues outside <wbr class="w1799"></wbr>of <wbr class="w481 w961"></wbr>court. We are courteous <wbr class="w480 w960 w1800"></wbr>and respectful to all parties throughout the process and <wbr class="w480 w481 w960 w961 w1799"></wbr>encourage our clients to take this approach, too. However, <wbr class="w480 w960 w1800"></wbr>sometimes litigation is <wbr class="w481 w961 w1799"></wbr>necessary to resolve your family&#x2019;s <wbr class="w480 w960"></wbr>disputes. Having a strong litigator by your side can <wbr class="w481 w961 w1799 w1800"></wbr>alleviate <wbr class="w480 w960"></wbr>the uncertainty and stress of the arduous litigation process <wbr class="w480 w960"></wbr>and help you <wbr class="w1799"></wbr>obtain <wbr class="w481 w961"></wbr>the most favorable trial <wbr class="w1800"></wbr>outcome. <wbr class="w480 w960"></wbr>Lawyers at Ascher & Denton, LLC use smart <wbr class="w1799"></wbr>trial <wbr class="w481 w961"></wbr>strategies <wbr class="w480 w960"></wbr>to get the best result for you and your family <wbr class="w1800"></wbr>throughout <wbr class="w480 w960"></wbr>the litigation <wbr class="w481 w961 w1799"></wbr>process.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>C</span>ontact a family law attorney for a consultation Call <wbr class="w480 w960"></wbr>Ascher & Denton, PLLC at </p><p><b data-grid-id="4cfc5f56-eee1-4708-a087-32990f787fff"><a href="tel:3603578669"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>360-357-8669</a></b></p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>o</span>r contact us by email </p><p><b data-grid-id="e48b07f0-696a-498b-9cbb-0462ead566cd"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>ascherdent*at*gmail. com </b>(replace *at* with @) </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>f</span>or an initial consultation on your family law case. We are <wbr class="w480 w960"></wbr>committed to delivering the <wbr class="w481 w961 w1799"></wbr>best outcome for you and <wbr class="w1800"></wbr>your <wbr class="w480 w960"></wbr>family with minimal conflict and expense.</p></div></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_long_headline w_long_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading"><h1 kind="title" index="headline" class="long long_headline long_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading-t-headline-a">Ascher & Denton, Olympia<wbr class="w480"></wbr> Family Law   <wbr class="w481"></wbr> 360-357-8669   <wbr class="w480"></wbr>2401 <wbr class="w960"></wbr>Bristol Ct. SW #A-<wbr class="w481"></wbr>101,<wbr class="w480"></wbr> <wbr class="w961 w1799"></wbr>Olympia, WA  feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data w_cover w_media w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-3-l-one"></div><style id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-color">body{background-color: rgba(221, 214, 180, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data w_cover w_media w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-3-l-one"></div><style id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-color">body{background-color: rgba(221, 214, 180, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack textual i first_chapter w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data stack textual" itemid="7c6afa29-95a8-4724-96b8-e85b9f910a95" itemtype="text" diff_index="4" index="textual" kind="stack" score="1.75" missed="0.25" tag="article" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95"><div kind="group" index="textual" class="group textual group textual" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-headline"><span class="text-decoration" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-headline-span"><b data-grid-id="e1b5efb4-a3f2-4dbf-a999-95597af7b95c">Divorce Help in <wbr class="w480 w960"></wbr>Olympia</b></span></h1><div kind="text" index="paragraph" class="text-decoration medium medium_paragraph medium_text text paragraph text paragraph" specificity="0.25" itemprop="text" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-t-paragraph"><p><span class="first-letter">T</span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>he dissolution of your marriage is an emotional and <wbr class="w480 w960"></wbr>stressful event. The <wbr class="w481 w961 w1799"></wbr>compassionate attorneys at <wbr class="w480 w960"></wbr>Ascher & <wbr class="w1800"></wbr>Denton, PLLC help ease the legal strain of <wbr class="w481 w961 w1799"></wbr>divorce <wbr class="w480 w960"></wbr>so you can concentrate on the health and well-being of <wbr class="w480 w960"></wbr>your <wbr class="w1800"></wbr>family. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>With more than 25 years of experience in family law <wbr class="w480 w960"></wbr>matters, the attorneys at Ascher & <wbr class="w481 w961 w1799"></wbr>Denton, PLLC in <wbr class="w480 w960"></wbr>Olympia <wbr class="w1800"></wbr>take your individual needs into account as we seek <wbr class="w480 w960"></wbr>the best <wbr class="w481 w961 w1799"></wbr>possible results for you regarding: </p><p><b data-grid-id="64e34049-1175-444d-bace-7ae8ed53413f"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>We are also family law mediators who encourage <wbr class="w480 w960"></wbr>cooperation</b></p></div><ul kind="data" index="list" class="medium medium_list medium_data data list vfld-trailer data list" specificity="0.25" itemprop="list" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-d-list"><li>Child custody and visitation rights </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Child support </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Distribution of personal property, bank accounts, stocks <wbr class="w480 w960"></wbr>and other assets </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Division of marital debts </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Sale or possession of the marital home </li><li><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Spousal support and temporary support </li></ul><div kind="decoration" index="separator" class="decoration separator decoration separator" id="u-7c6afa29-95a8-4724-96b8-e85b9f910a95-g-textual-d-separator"></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack mixed i w_cover w_media w_paragraph w_text w_decoration media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text stack mixed" itemid="0169c01d-4493-4387-a50e-cd7c1fb3197d" itemtype="text" diff_index="0" index="mixed" kind="stack" score="3.625" missed="0.375" tag="article" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d"><div kind="group" index="mixed" class="group mixed group mixed" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed"><a kind="media" index="cover" class="vfld media cover vfld-trailer media cover" specificity="0.25" itemprop="cover" max-width="2048" max-height="1536" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover"><picture id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5137e737294eeeebdaf47a2fcab1a4b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=608&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/646bc0fab02c0414e7caefc04f4e1a7a/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=1216&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/91b47e65e02ac8f66d64761e82e4fae7/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=608&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=811, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb1f050127c332f11a0e70e6750a1216/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=1216&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1622 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2e6b358cc54553ff0bee6d056bfc947/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=324&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=433, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/493f97a158343a5f93c99c8135040531/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=648&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=866 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4eeebbc55b33222dcaf6902908cbf46f/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=487&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=649, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f7321cce56c2954327c64055b445d01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=974&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1298 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2e6b358cc54553ff0bee6d056bfc947/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=324&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=433, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/493f97a158343a5f93c99c8135040531/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=648&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=866 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4de4dd0b85329fb8fb03ea572fbdedc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=480&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=641, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6aac8298b67056baa81ee79fcec4e67/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=960&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1282 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader text paragraph" specificity="0.25" itemprop="text" id="u-0169c01d-4493-4387-a50e-cd7c1fb3197d-g-mixed-t-paragraph"><p><span class="first-letter">M</span>ediation gives you and your spouse the opportunity to <wbr class="w480 w960"></wbr>negotiate a divorce <wbr class="w1799"></wbr>settlement <wbr class="w481 w961"></wbr>in a more amicable setting <wbr class="w480 w960 w1800"></wbr>by working with a trained facilitator. The <wbr class="w1799"></wbr>mediation process <wbr class="w480 w481 w960 w961"></wbr>fosters cooperation between partners and produces less <wbr class="w480 w960 w1800"></wbr>stress and <wbr class="w1799"></wbr>hostility than is <wbr class="w481 w961"></wbr>usually associated with <wbr class="w480 w960"></wbr>litigation. Mediation often reduces the time <wbr class="w1799"></wbr>and costs of <wbr class="w480 w960"></wbr>divorce, <wbr class="w481 w961 w1800"></wbr>and it puts the decisions in your hands. The <wbr class="w480 w960"></wbr>experienced <wbr class="w1799"></wbr>negotiators at Ascher & Denton, <wbr class="w481 w961"></wbr>PLLC can <wbr class="w480 w960"></wbr>help you obtain <wbr class="w1800"></wbr>the most equitable divorce <wbr class="w1799"></wbr>settlement, fair <wbr class="w480 w960"></wbr>child support <wbr class="w481 w961"></wbr>agreement and healthy child custody <wbr class="w480 w960"></wbr>arrangement. </p><p><b> <wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Family law litigators by your side</b></p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i last_chapter w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="dded79ae-6bd5-44c2-9276-a36a62ae25ea" itemtype="text" diff_index="1" index="column" kind="stack" score="0.625" missed="0.375" tag="article" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea"><div kind="group" index="column" class="group column group column" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-dded79ae-6bd5-44c2-9276-a36a62ae25ea-g-column-t-paragraph"><p><span class="first-letter">A</span>t Ascher & Denton, PLLC, our attorneys work hard to <wbr class="w480 w960"></wbr>resolve divorce issues outside <wbr class="w1799"></wbr>of <wbr class="w481 w961"></wbr>court. We are courteous <wbr class="w480 w960 w1800"></wbr>and respectful to all parties throughout the process and <wbr class="w480 w481 w960 w961 w1799"></wbr>encourage our clients to take this approach, too. However, <wbr class="w480 w960 w1800"></wbr>sometimes litigation is <wbr class="w481 w961 w1799"></wbr>necessary to resolve your family&#x2019;s <wbr class="w480 w960"></wbr>disputes. Having a strong litigator by your side can <wbr class="w481 w961 w1799 w1800"></wbr>alleviate <wbr class="w480 w960"></wbr>the uncertainty and stress of the arduous litigation process <wbr class="w480 w960"></wbr>and help you <wbr class="w1799"></wbr>obtain <wbr class="w481 w961"></wbr>the most favorable trial <wbr class="w1800"></wbr>outcome. <wbr class="w480 w960"></wbr>Lawyers at Ascher & Denton, LLC use smart <wbr class="w1799"></wbr>trial <wbr class="w481 w961"></wbr>strategies <wbr class="w480 w960"></wbr>to get the best result for you and your family <wbr class="w1800"></wbr>throughout <wbr class="w480 w960"></wbr>the litigation <wbr class="w481 w961 w1799"></wbr>process.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>C</span>ontact a family law attorney for a consultation Call <wbr class="w480 w960"></wbr>Ascher & Denton, PLLC at </p><p><b data-grid-id="4cfc5f56-eee1-4708-a087-32990f787fff"><a href="tel:3603578669"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>360-357-8669</a></b></p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>o</span>r contact us by email </p><p><b data-grid-id="e48b07f0-696a-498b-9cbb-0462ead566cd"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>ascherdent*at*gmail. com </b>(replace *at* with @) </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>f</span>or an initial consultation on your family law case. We are <wbr class="w480 w960"></wbr>committed to delivering the <wbr class="w481 w961 w1799"></wbr>best outcome for you and <wbr class="w1800"></wbr>your <wbr class="w480 w960"></wbr>family with minimal conflict and expense.</p></div></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_long_headline w_long_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading"><h1 kind="title" index="headline" class="long long_headline long_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-alternate-g-heading-t-headline-a">Ascher & Denton, Olympia<wbr class="w480"></wbr> Family Law   <wbr class="w481"></wbr> 360-357-8669   <wbr class="w480"></wbr>2401 <wbr class="w960"></wbr>Bristol Ct. SW #A-<wbr class="w481"></wbr>101,<wbr class="w480"></wbr> <wbr class="w961 w1799"></wbr>Olympia, WA  feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data w_cover w_media w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-desktop-l-one-3-l-one"></div><style id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-color">body{background-color: rgba(221, 214, 180, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_medium_list w_medium_data w_cover w_media w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_long_paragraph w_long_text layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-cinema-l-one-3-l-one"></div><style id="u-5a14fca9-ef2c-453a-9d66-af049d0adce0-color">body{background-color: rgba(221, 214, 180, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 /*! Hammer.JS - v1.1.3 - 2014-05-20
  * http://eightmedia.github.io/hammer.js
  *
@@ -1663,9 +1704,11 @@ global.Hamburger = require('./hamburger');
 
 global.Highlighter = require('./highlighter');
 
+global.Player = require('./player');
+
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
+},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"./player":8,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
 var appendPage, mainpage, page, ref, ref1, urls;
 
 page = require('./reflow');
@@ -1766,7 +1809,192 @@ module.exports = function() {
 };
 
 
-},{"./reflow":8}],8:[function(require,module,exports){
+},{"./reflow":9}],8:[function(require,module,exports){
+var Player, Youtube, iframe, revealed, rgb2hex;
+
+iframe = null;
+
+Youtube = null;
+
+Player = function(id, src, width, height, color, bg) {
+  if (src.indexOf('youtube') > -1) {
+    src += '&color=white&theme=light&modestbranding=1';
+  }
+  src = src.replace('COLOR', color).replace('BG', bg);
+  if (location.protocol !== 'https:') {
+    src = src.replace('https:', 'http:');
+  }
+  iframe = document.createElement('iframe');
+  iframe.id = id;
+  iframe.setAttribute('allowfullscreen', '');
+  iframe.src = src;
+  iframe.width = width;
+  iframe.height = height;
+  iframe.style.width = '100%';
+  iframe.style.height = '100%';
+  iframe.style.left = 0;
+  iframe.style.right = 0;
+  iframe.style.position = 'absolute';
+  iframe.style.opacity = 0.2;
+  iframe.onload = function() {
+    return iframe.style.opacity = 1;
+  };
+  return iframe;
+};
+
+revealed = null;
+
+Player.reveal = function(iframe) {
+  var diff, i, left, len, parent, play, ref, ref1, sibling, target, top, translateX, translateY;
+  while (target = (target || iframe).parentNode) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (target.parentNode.classList.contains('group')) {
+        parent = target.parentNode;
+      } else {
+        parent = target;
+      }
+      revealed = iframe;
+      play = parent.getElementsByClassName('play')[0];
+      left = target.offsetWidth - play.offsetLeft - play.offsetWidth;
+      top = -play.offsetTop;
+      play.style.webkitTransformOrigin = 'top right';
+      play.style.webkitTransform = 'translateX(' + left + 'px) translateY(' + top + 'px) scale(0.5)';
+      target.classList.add('revealed');
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        if (sibling.nodeType === 1 && sibling !== parent) {
+          translateX = translateY = null;
+          if ((diff = sibling.offsetLeft + sibling.offsetWidth - parent.offsetLeft) > 2 && parent.offsetLeft >= sibling.offsetLeft) {
+            translateX = -diff;
+          }
+          if ((diff = target.offsetLeft + target.offsetWidth - sibling.offsetLeft) > 2 && parent.offsetLeft <= sibling.offsetLeft) {
+            if (!translateX || Math.abs(diff) < Math.abs(translateX)) {
+              translateX = diff;
+            }
+          }
+          if ((diff = sibling.offsetTop + sibling.offsetHeight - parent.offsetTop) > 2 && parent.offsetTop >= sibling.offsetTop) {
+            translateY = -diff;
+          }
+          if ((diff = target.offsetTop + target.offsetHeight - sibling.offsetTop) > 2 && parent.offsetTop <= sibling.offsetTop) {
+            if (!translateY || Math.abs(diff) < Math.abs(translateY)) {
+              translateY = diff;
+            }
+          }
+          if (Math.abs(translateX) > Math.abs(translateY)) {
+            sibling.style.webkitTransform = 'translateY(' + translateY + 'px)';
+          } else {
+            sibling.style.webkitTransform = 'translateX(' + translateX + 'px)';
+          }
+          console.log(translateX, translateY, sibling);
+        }
+      }
+    }
+  }
+};
+
+Player.hide = function(iframe) {
+  var i, len, parent, play, ref, ref1, sibling;
+  while (parent = (parent || iframe).parentNode) {
+    if ((ref = parent.classList) != null ? ref.contains('revealed') : void 0) {
+      parent.classList.remove('revealed');
+      if (parent.parentNode.classList.contains('group')) {
+        parent = parent.parentNode;
+      }
+      play = parent.getElementsByClassName('play')[0];
+      play.style.webkitTransform = '';
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        sibling.style.webkitTransform = '';
+      }
+    }
+  }
+  return revealed = null;
+};
+
+window.addEventListener('resize', function() {
+  return setTimeout(function() {
+    return requestAnimationFrame(function() {
+      if (revealed) {
+        if (revealed.offsetWidth) {
+          return Player.reveal(revealed);
+        } else {
+          return Player.stop(revealed);
+        }
+      }
+    });
+  }, 10);
+});
+
+Player.stop = function(iframe) {
+  var old;
+  old = iframe;
+  iframe.style.opacity = 0;
+  setTimeout(function() {
+    var ref;
+    return (ref = old.parentNode) != null ? ref.removeChild(old) : void 0;
+  }, 300);
+  Player.hide(iframe);
+  return iframe = null;
+};
+
+document.addEventListener('click', function(e) {
+  var bg, color, header, parent, play, ref, ref1, results, styles, target;
+  target = e.target;
+  results = [];
+  while (target) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (play = target.getElementsByClassName('play')[0]) {
+        if ((iframe != null ? iframe.parentNode : void 0) === target) {
+          Player.stop(iframe);
+        } else {
+          if (iframe) {
+            Player.stop(iframe);
+          }
+          color = bg = null;
+          header = (ref1 = target.parentNode.parentNode.getElementsByClassName('title')[0]) != null ? ref1.firstChild : void 0;
+          parent = header || play;
+          while (parent) {
+            if (parent.nodeType === 1) {
+              styles = window.getComputedStyle(parent);
+              if (styles.color.indexOf('rgba') === -1 || !styles.color.match(/,\s*0\)/)) {
+                if (color == null) {
+                  color = styles.color;
+                }
+              }
+              if (styles['background-color'].indexOf('rgba') === -1 || !styles['background-color'].match(/,\s*0\)/)) {
+                if (bg == null) {
+                  bg = styles['background-color'];
+                }
+              }
+            }
+            parent = parent.parentNode;
+          }
+          iframe = Player(play.id + '-player', play.getAttribute('data-src'), play.getAttribute('data-width'), play.getAttribute('data-height'), rgb2hex(color), rgb2hex(bg));
+          target.appendChild(iframe);
+          Player.reveal(iframe);
+        }
+        e.preventDefault();
+        break;
+      }
+    }
+    results.push(target = target.parentNode);
+  }
+  return results;
+});
+
+rgb2hex = function(rgb) {
+  rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+  if (rgb && rgb.length === 4) {
+    return ("0" + parseInt(rgb[1], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[2], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[3], 10).toString(16)).slice(-2);
+  }
+};
+
+window.exports = window.Player = Player;
+
+
+},{}],9:[function(require,module,exports){
 module.exports = {
   reflow: function(container) {
     var counter, heights, hidden, hole, holed, holes, i, id, ids, index, j, k, l, last, layout, layouts, len, len1, len2, len3, m, mutations, name, node, ref, ref1, ref2, stack, stacks;
@@ -2031,7 +2259,7 @@ module.exports = function(callback) {
   } else {
     protocol = '';
   }
-  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.4/gss.document.parser.js";
+  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.8/gss.document.parser.js";
   if (location.toString().indexOf('//localhost:8080') > -1) {
     return module.exports.load(protocol + "//localhost:8080/node_modules/gss-document/dist/gss.document.parser.js", callback, function() {
       return module.exports.load(url, callback);

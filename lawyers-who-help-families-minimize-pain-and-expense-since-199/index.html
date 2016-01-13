@@ -1,4 +1,4 @@
-<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Minimize Pain & Expense - ascherdenton</title><link href="../rss.xml" title="Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW #A-101, Olympia, WA  feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.16.25"><meta name="the-grid-solution" content="af670ad6-0ec4-40c7-a542-862af38d066f"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
+<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Minimize Pain & Expense - ascherdenton</title><link href="../rss.xml" title="Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW #A-101, Olympia, WA  feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.17.3"><meta name="the-grid-solution" content="b719f3c8-f1a2-4761-9962-aa6701dba31a"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
 @media (min-width: 15.6875em)and (max-width: 15.75em){	html{font-size:3.28125em !important}}
 @media (min-width: 15.8125em)and (max-width: 16.25em){	html{font-size:3.375em !important}}
 @media (min-width: 16.3125em)and (max-width: 16.6875em){html{font-size:3.46875em !important}}
@@ -202,6 +202,14 @@ body {
 }
 .stack {
   z-index: 1;
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+}
+.group,
+.aside,
+.decoration {
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
 }
 picture {
   display: inline-block;
@@ -250,6 +258,9 @@ a:active {
   transition: color 0.1s ease-in, background-color 0.1s ease-out;
   -webkit-transition: color 0.1s ease-in, background-color 0.1s ease-out;
 }
+a.aside {
+  display: inline-block;
+}
 html.exporting a {
   transition: none;
 }
@@ -259,11 +270,21 @@ html.exporting a {
 .media > a {
   display: inline-block;
 }
+.media iframe {
+  transition: 0.3s opacity ease-in;
+  -webkit-transition: 0.3s opacity ease-in;
+}
 h1 a,
 h2 a,
 h3 a {
   font-weight: inherit;
   letter-spacing: inherit;
+}
+a {
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 .text-decoration {
   -webkit-box-decoration-break: clone;
@@ -277,36 +298,50 @@ h3 a {
   margin-left: 1.5em;
 }
 .decoration {
-  position: relative;
   pointer-events: none;
+}
+.svg {
+  position: relative;
   background-color: currentColor;
 }
-.decoration > svg {
+.svg > svg {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.decoration.connector > svg {
+.svg.connector > svg {
   width: 109%;
   height: 109%;
   margin-left: -2%;
 }
-.decoration path,
-.decoration ellipse,
-.decoration rect,
-.decoration polygon,
-.decoration circle {
+.svg path,
+.svg ellipse,
+.svg rect,
+.svg polygon,
+.svg circle {
   fill: currentColor;
 }
-.decoration mpath,
-.decoration line,
-.decoration polyline {
+.svg mpath,
+.svg line,
+.svg polyline {
   stroke: currentColor;
 }
-.svg.decoration {
+.svg {
   background-color: transparent;
+}
+.revealed .play.svg:after {
+  display: block;
+  width: 40px;
+  height: 40px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -20px;
+  background-color: currentColor;
+  content: "";
 }
 .colors-style-aside-border .publisher,
 .colors-style-aside-border .author {
@@ -466,7 +501,8 @@ ul {
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.244rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -599,7 +635,8 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.244rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -709,7 +746,7 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed { text-align: left; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed{font-size: 0.164rem; line-height: 0.244rem; height: 8.394rem; width: 7.684rem; position: absolute; top: 0.484rem; left: 0.964rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 4.324rem; height: 2.144rem; position: absolute; top: 1.524rem; left: 1.684rem;}
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 4.324rem; height: 2.144rem; position: absolute; top: 1.524rem; left: 1.444rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img{height: 2.144rem; width: 4.324rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 4.324rem; position: absolute; top: 0.064rem; left: 1.684rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 4.324rem; position: absolute; left: 1.684rem; top: 3.754rem;}
@@ -718,7 +755,8 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.244rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -829,7 +867,7 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed { text-align: left; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed{font-size: 0.164rem; line-height: 0.244rem; height: 7.984rem; width: 11.524rem; position: absolute; top: 0.724rem; left: 1.444rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 6.484rem; height: 3.214rem; position: absolute; top: 0.924rem; left: 2.524rem;}
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 6.484rem; height: 3.214rem; position: absolute; top: 0.924rem; left: 2.164rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img{height: 3.214rem; width: 6.484rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 6.484rem; position: absolute; top: 0.094rem; left: 2.524rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 6.484rem; position: absolute; left: 2.524rem; top: 4.274rem;}
@@ -838,7 +876,8 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.244rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.244rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -949,7 +988,7 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed { text-align: left; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed{font-size: 0.204rem; line-height: 0.304rem; height: 10.264rem; width: 14.404rem; position: absolute; top: 0.904rem; left: 1.804rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 4.014rem; position: absolute; top: 1.154rem; left: 3.154rem;}
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 4.014rem; position: absolute; top: 1.154rem; left: 2.704rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img{height: 4.014rem; width: 8.104rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline{font-size: 0.654rem; line-height: 0.854rem; width: 8.104rem; position: absolute; top: 0.124rem; left: 3.154rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph{font-size: 0.204rem; line-height: 0.304rem; width: 8.104rem; position: absolute; left: 3.154rem; top: 5.334rem;}
@@ -958,7 +997,8 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.304rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.304rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.304rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -1069,7 +1109,7 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 >.group.mixed { text-align: left; }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed{font-size: 0.154rem; line-height: 0.234rem; height: 8.244rem; width: 14.414rem; position: absolute; top: 0.904rem; left: 1.804rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 4.014rem; position: absolute; top: 0.944rem; left: 3.164rem;}
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover{overflow: hidden; width: 8.104rem; height: 4.014rem; position: absolute; top: 0.944rem; left: 2.704rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img{height: 4.014rem; width: 8.104rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline{font-size: 0.494rem; line-height: 0.644rem; width: 8.104rem; position: absolute; top: 0.124rem; left: 3.164rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph{font-size: 0.154rem; line-height: 0.234rem; width: 8.104rem; position: absolute; left: 3.164rem; top: 5.124rem;}
@@ -1078,7 +1118,8 @@ display: none;
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(3){margin-top: 0.234rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(4){margin-top: 0.234rem;}
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph>p:nth-of-type(5){margin-top: 0.234rem;}
-#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .media.cover { background-image: linear-gradient(rgb(75, 62, 27), rgb(245, 243, 240)); color: rgb(115, 0, 0); }
+#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed :hover.media.cover { color: rgb(245, 243, 240); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline { color: rgb(75, 62, 27); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .title.headline a:hover { color: rgb(73, 27, 12); }
 #u-f58bf82e-b04a-424b-9f53-6e86cb4113c4#u-f58bf82e-b04a-424b-9f53-6e86cb4113c4 .group.mixed > .text.paragraph { color: rgb(42, 34, 15); }
@@ -1172,7 +1213,7 @@ display: none;
             </g>
         </g>
     </g>
-</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack mixed i first_chapter w_cover w_media w_headline w_title w_paragraph w_text w_decoration media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text stack mixed" itemid="f58bf82e-b04a-424b-9f53-6e86cb4113c4" itemtype="text" diff_index="0" index="mixed" kind="stack" score="8.75" missed="0.25" tag="article" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4"><div kind="group" index="mixed" class="group mixed group mixed" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed"><a kind="media" index="cover" class="vfld media cover media cover" specificity="0.25" itemprop="cover" max-width="3345" max-height="1652" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51f37e601504b6ef403eec20e67f9c6b36899fd.jpg" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover"><picture id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fae123113f6ebaaca1fe8f4803771dc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=401&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c86cac9c2d25d3e5f4913d8be8627ff2/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=802&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fae123113f6ebaaca1fe8f4803771dc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=401&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c86cac9c2d25d3e5f4913d8be8627ff2/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=802&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7e40ff3863125d8d8f457f182c82cf3/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=214&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=432, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea9f9ce02ca008828fc950a0e5158ad6/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=428&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=864 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/675bbfc2fc72903a3527ef570b12bb01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=321&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=648, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8d63b38b52b4c30eb76b5c411b56e1b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=642&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1296 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7e40ff3863125d8d8f457f182c82cf3/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=214&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=432, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea9f9ce02ca008828fc950a0e5158ad6/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=428&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=864 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/675bbfc2fc72903a3527ef570b12bb01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=321&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=648, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8d63b38b52b4c30eb76b5c411b56e1b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=642&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1296 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline"><span class="text-decoration" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline-span"><b data-grid-id="cd09b692-032a-4835-9787-10a813e761a1">Minimize Pain & <wbr class="w480 w960"></wbr>Expense</b></span></h1><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph"><p><span class="first-letter"> </span>Since 1990, Ascher & Denton lawyers have been achieving <wbr class="w480 w960"></wbr>the best family outcomes <wbr class="w1799"></wbr>with <wbr class="w481 w961"></wbr>minimal conflict and <wbr class="w480 w960 w1800"></wbr>expense.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>L</span>ocated in Olympia, Washington, we provide <wbr class="w480 w960"></wbr>compassionate and considered advice <wbr class="w1799"></wbr>and <wbr class="w481 w961"></wbr>representation in <wbr class="w480 w960"></wbr>all areas of <wbr class="w1800"></wbr>family law, with the philosophy that respect <wbr class="w480 w960"></wbr>and <wbr class="w1799"></wbr>sensible <wbr class="w481 w961"></wbr>negotiation often provide the best results: </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ivorce</p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>We focus on helping you figure out what your best options <wbr class="w480 w960"></wbr>are and cut your losses <wbr class="w1799"></wbr>when <wbr class="w481 w961"></wbr>making decisions about <wbr class="w1800"></wbr>your <wbr class="w480 w960"></wbr>divorce, including fair distribution of assets, <wbr class="w1799"></wbr>division of the <wbr class="w480 w481 w960 w961"></wbr>marital home, child support payments and child <wbr class="w1800"></wbr>custody <wbr class="w480 w960"></wbr>rights. (In <wbr class="w1799"></wbr>Washington, Divorce <wbr class="w481 w961"></wbr>is called Dissolution of <wbr class="w480 w960"></wbr>Marriage and Child Custody is called <wbr class="w1799"></wbr>Parenting Plan) </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>A</span>limony </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="07d1c142-92d7-4d24-9e84-edd549a66f2a" itemtype="text" diff_index="1" index="column" kind="stack" score="2.625" missed="0.375" tag="article" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a"><div kind="group" index="column" class="group column group column" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a-g-column-t-paragraph"><p><span class="first-letter">R</span>easonable spousal support is sometimes appropriate in a <wbr class="w480 w960"></wbr>divorce. Attorney fees <wbr class="w1799"></wbr>awards <wbr class="w481 w961"></wbr>are sometimes involved to <wbr class="w480 w960 w1800"></wbr>help a less financially able spouse have a lawyer. We <wbr class="w1799"></wbr>work <wbr class="w480 w481 w960 w961"></wbr>within the boundaries of the law to help get spousal <wbr class="w480 w960 w1800"></wbr>support established in a <wbr class="w1799"></wbr>reasonable <wbr class="w481 w961"></wbr>amount and for a <wbr class="w480 w960"></wbr>reasonable length of time so both parties can go on with <wbr class="w480 w960 w1799"></wbr>their <wbr class="w1800"></wbr>lives <wbr class="w481 w961"></wbr>with dignity. </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>C</span>hild custody and visitation </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>W</span>ashington law protects the constitutional rights of both <wbr class="w480 w960"></wbr>parents to parent while the <wbr class="w481 w961 w1799"></wbr>primary basis for all decisions <wbr class="w480 w960 w1800"></wbr>about parenting plans is always "the best interest of the <wbr class="w480 w481 w960 w961 w1799"></wbr>child" standard. Our law firm tries hard to work with our <wbr class="w480 w960 w1800"></wbr>client and the court (and the <wbr class="w481 w961 w1799"></wbr>other side, when possible) to <wbr class="w480 w960"></wbr>reach toward the very best parenting plan solutions for <wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>both parents to have appropriate and meaningful contact <wbr class="w480 w960"></wbr>with their children. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Child support </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="5fe0ec23-27c0-4cd3-a159-d9369a53242d" itemtype="text" diff_index="1" index="column" kind="stack" score="2.625" missed="0.375" tag="article" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d"><div kind="group" index="column" class="group column group column" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d-g-column-t-paragraph"><p><span class="first-letter">W</span>ashington State Laws provide for a standard set of <wbr class="w480 w960"></wbr>guidelines for parents to provide <wbr class="w481 w961 w1799"></wbr>support for their <wbr class="w480 w960"></wbr>children. It <wbr class="w1800"></wbr>is an art, not an automatic result, to work <wbr class="w480 w960"></wbr>within these <wbr class="w481 w961 w1799"></wbr>guidelines to insure that children are <wbr class="w480 w960"></wbr>supported in the <wbr class="w1800"></wbr>correct way as intended by the <wbr class="w481 w961 w1799"></wbr>law. We <wbr class="w480 w960"></wbr>focus on obeying the law and getting to a reasonable result <wbr class="w480 w960"></wbr>that both parents <wbr class="w481 w961 w1799 w1800"></wbr>can live with to support their children. It <wbr class="w480 w960"></wbr>is important to do an intelligent cost benefit <wbr class="w481 w961 w1799"></wbr>analysis in <wbr class="w480 w960"></wbr>every case and for <wbr class="w1800"></wbr>you to make informed decisions for <wbr class="w480 w960"></wbr>past/present and <wbr class="w481 w961 w1799"></wbr>future support and interest that may be <wbr class="w480 w960"></wbr>owed. Child support <wbr class="w1800"></wbr>modification and <wbr class="w481 w961 w1799"></wbr>enforcement Child <wbr class="w480 w960"></wbr>support payments do not change unless the court or <wbr class="w480 w960"></wbr>administrative <wbr class="w481 w961 w1799"></wbr>process <wbr class="w1800"></wbr>modifies the child support order. If <wbr class="w480 w960"></wbr>either the custodial or the noncustodial <wbr class="w481 w961 w1799"></wbr>parent experiences <wbr class="w480 w960"></wbr>a significant change <wbr class="w1800"></wbr>in circumstances, our attorneys can <wbr class="w480 w960"></wbr>guide you <wbr class="w481 w961 w1799"></wbr>through the proper legal procedures to modify <wbr class="w480 w960"></wbr>your child support <wbr class="w1800"></wbr>payments <wbr class="w481 w961 w1799"></wbr>accordingly. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Mediation </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i last_chapter w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="ad256628-0918-4c96-ac06-bb48f106d90d" itemtype="text" diff_index="1" index="column" kind="stack" score="2.625" missed="0.375" tag="article" id="u-ad256628-0918-4c96-ac06-bb48f106d90d"><div kind="group" index="column" class="group column group column" id="u-ad256628-0918-4c96-ac06-bb48f106d90d-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-ad256628-0918-4c96-ac06-bb48f106d90d-g-column-t-paragraph"><p><span class="first-letter">M</span>ediation puts the decisions in your hands and can often <wbr class="w480 w960"></wbr>provide more expedient, <wbr class="w481 w961 w1799"></wbr>predictable results than a trial. <wbr class="w480 w960 w1800"></wbr>Much of the time, we resolve family law cases outside of <wbr class="w480 w481 w960 w961 w1799"></wbr>court. </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>T</span>he skilled negotiators at Ascher & Denton, PLLC can help <wbr class="w480 w960"></wbr>you obtain the most <wbr class="w1799"></wbr>equitable <wbr class="w481 w961"></wbr>divorce settlement. <wbr class="w1800"></wbr>Contact <wbr class="w480 w960"></wbr>us for an initial consultation Call Ascher & <wbr class="w1799"></wbr>Denton, PLLC at <a href="tel:3603578669"><wbr class="w480 w481 w960 w961"></wbr>360-357-8669</a> or contact us by email <wbr class="w480 w960 w1800"></wbr>(ascherdent*at*<a href="http://gmail.com">gmail.com</a>) to <wbr class="w1799"></wbr>schedule an <wbr class="w481 w961"></wbr>appointment <wbr class="w480 w960"></wbr>with a family law attorney for cases in Thurston County, <wbr class="w480 w960 w1799 w1800"></wbr>Mason County or <wbr class="w481 w961"></wbr>Lewis County, Washington.</p></div></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_long_headline w_long_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading"><h1 kind="title" index="headline" class="long long_headline long_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading-t-headline-a">Ascher & Denton, Olympia<wbr class="w480"></wbr> Family Law   <wbr class="w481"></wbr> 360-357-8669   <wbr class="w480"></wbr>2401 <wbr class="w960"></wbr>Bristol Ct. SW #A-<wbr class="w481"></wbr>101,<wbr class="w480"></wbr> <wbr class="w961 w1799"></wbr>Olympia, WA  feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_cover w_media w_headline w_title w_paragraph w_text w_separator w_decoration w_leader w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-3-l-one"></div><style id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-color">body{background-color: rgba(221, 214, 180, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_cover w_media w_headline w_title w_paragraph w_text w_separator w_decoration w_leader w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-3-l-one"></div><style id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-color">body{background-color: rgba(221, 214, 180, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack mixed i first_chapter w_cover w_media w_headline w_title w_paragraph w_text w_decoration media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text stack mixed" itemid="f58bf82e-b04a-424b-9f53-6e86cb4113c4" itemtype="text" diff_index="0" index="mixed" kind="stack" score="4.75" missed="0.25" tag="article" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4"><div kind="group" index="mixed" class="group mixed group mixed" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed"><a kind="media" index="cover" class="vfld media cover media cover" specificity="0.25" itemprop="cover" max-width="3345" max-height="1652" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51f37e601504b6ef403eec20e67f9c6b36899fd.jpg" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover"><picture id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fae123113f6ebaaca1fe8f4803771dc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=401&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c86cac9c2d25d3e5f4913d8be8627ff2/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=802&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fae123113f6ebaaca1fe8f4803771dc/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=401&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=810, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c86cac9c2d25d3e5f4913d8be8627ff2/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=802&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1620 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7e40ff3863125d8d8f457f182c82cf3/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=214&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=432, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea9f9ce02ca008828fc950a0e5158ad6/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=428&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=864 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/675bbfc2fc72903a3527ef570b12bb01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=321&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=648, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8d63b38b52b4c30eb76b5c411b56e1b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=642&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1296 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7e40ff3863125d8d8f457f182c82cf3/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=214&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=432, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea9f9ce02ca008828fc950a0e5158ad6/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=428&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=864 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/675bbfc2fc72903a3527ef570b12bb01/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=321&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=648, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8d63b38b52b4c30eb76b5c411b56e1b/gradientmap.jpg?color1=%231F1C14&color2=%233D3829&color3=%237A7052&color4=%23FF6666&color5=%23FFCCCC&height=642&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd51f37e601504b6ef403eec20e67f9c6b36899fd.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1296 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline"><span class="text-decoration" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-headline-span"><b data-grid-id="cd09b692-032a-4835-9787-10a813e761a1">Minimize Pain & <wbr class="w480 w960"></wbr>Expense</b></span></h1><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-f58bf82e-b04a-424b-9f53-6e86cb4113c4-g-mixed-t-paragraph"><p><span class="first-letter"> </span>Since 1990, Ascher & Denton lawyers have been achieving <wbr class="w480 w960"></wbr>the best family outcomes <wbr class="w1799"></wbr>with <wbr class="w481 w961"></wbr>minimal conflict and <wbr class="w480 w960 w1800"></wbr>expense.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>L</span>ocated in Olympia, Washington, we provide <wbr class="w480 w960"></wbr>compassionate and considered advice <wbr class="w1799"></wbr>and <wbr class="w481 w961"></wbr>representation in <wbr class="w480 w960"></wbr>all areas of <wbr class="w1800"></wbr>family law, with the philosophy that respect <wbr class="w480 w960"></wbr>and <wbr class="w1799"></wbr>sensible <wbr class="w481 w961"></wbr>negotiation often provide the best results: </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ivorce</p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>We focus on helping you figure out what your best options <wbr class="w480 w960"></wbr>are and cut your losses <wbr class="w1799"></wbr>when <wbr class="w481 w961"></wbr>making decisions about <wbr class="w1800"></wbr>your <wbr class="w480 w960"></wbr>divorce, including fair distribution of assets, <wbr class="w1799"></wbr>division of the <wbr class="w480 w481 w960 w961"></wbr>marital home, child support payments and child <wbr class="w1800"></wbr>custody <wbr class="w480 w960"></wbr>rights. (In <wbr class="w1799"></wbr>Washington, Divorce <wbr class="w481 w961"></wbr>is called Dissolution of <wbr class="w480 w960"></wbr>Marriage and Child Custody is called <wbr class="w1799"></wbr>Parenting Plan) </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>A</span>limony </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="07d1c142-92d7-4d24-9e84-edd549a66f2a" itemtype="text" diff_index="1" index="column" kind="stack" score="0.625" missed="0.375" tag="article" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a"><div kind="group" index="column" class="group column group column" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-07d1c142-92d7-4d24-9e84-edd549a66f2a-g-column-t-paragraph"><p><span class="first-letter">R</span>easonable spousal support is sometimes appropriate in a <wbr class="w480 w960"></wbr>divorce. Attorney fees <wbr class="w1799"></wbr>awards <wbr class="w481 w961"></wbr>are sometimes involved to <wbr class="w480 w960 w1800"></wbr>help a less financially able spouse have a lawyer. We <wbr class="w1799"></wbr>work <wbr class="w480 w481 w960 w961"></wbr>within the boundaries of the law to help get spousal <wbr class="w480 w960 w1800"></wbr>support established in a <wbr class="w1799"></wbr>reasonable <wbr class="w481 w961"></wbr>amount and for a <wbr class="w480 w960"></wbr>reasonable length of time so both parties can go on with <wbr class="w480 w960 w1799"></wbr>their <wbr class="w1800"></wbr>lives <wbr class="w481 w961"></wbr>with dignity. </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>C</span>hild custody and visitation </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>W</span>ashington law protects the constitutional rights of both <wbr class="w480 w960"></wbr>parents to parent while the <wbr class="w481 w961 w1799"></wbr>primary basis for all decisions <wbr class="w480 w960 w1800"></wbr>about parenting plans is always "the best interest of the <wbr class="w480 w481 w960 w961 w1799"></wbr>child" standard. Our law firm tries hard to work with our <wbr class="w480 w960 w1800"></wbr>client and the court (and the <wbr class="w481 w961 w1799"></wbr>other side, when possible) to <wbr class="w480 w960"></wbr>reach toward the very best parenting plan solutions for <wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>both parents to have appropriate and meaningful contact <wbr class="w480 w960"></wbr>with their children. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Child support </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="5fe0ec23-27c0-4cd3-a159-d9369a53242d" itemtype="text" diff_index="1" index="column" kind="stack" score="0.625" missed="0.375" tag="article" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d"><div kind="group" index="column" class="group column group column" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-5fe0ec23-27c0-4cd3-a159-d9369a53242d-g-column-t-paragraph"><p><span class="first-letter">W</span>ashington State Laws provide for a standard set of <wbr class="w480 w960"></wbr>guidelines for parents to provide <wbr class="w481 w961 w1799"></wbr>support for their <wbr class="w480 w960"></wbr>children. It <wbr class="w1800"></wbr>is an art, not an automatic result, to work <wbr class="w480 w960"></wbr>within these <wbr class="w481 w961 w1799"></wbr>guidelines to insure that children are <wbr class="w480 w960"></wbr>supported in the <wbr class="w1800"></wbr>correct way as intended by the <wbr class="w481 w961 w1799"></wbr>law. We <wbr class="w480 w960"></wbr>focus on obeying the law and getting to a reasonable result <wbr class="w480 w960"></wbr>that both parents <wbr class="w481 w961 w1799 w1800"></wbr>can live with to support their children. It <wbr class="w480 w960"></wbr>is important to do an intelligent cost benefit <wbr class="w481 w961 w1799"></wbr>analysis in <wbr class="w480 w960"></wbr>every case and for <wbr class="w1800"></wbr>you to make informed decisions for <wbr class="w480 w960"></wbr>past/present and <wbr class="w481 w961 w1799"></wbr>future support and interest that may be <wbr class="w480 w960"></wbr>owed. Child support <wbr class="w1800"></wbr>modification and <wbr class="w481 w961 w1799"></wbr>enforcement Child <wbr class="w480 w960"></wbr>support payments do not change unless the court or <wbr class="w480 w960"></wbr>administrative <wbr class="w481 w961 w1799"></wbr>process <wbr class="w1800"></wbr>modifies the child support order. If <wbr class="w480 w960"></wbr>either the custodial or the noncustodial <wbr class="w481 w961 w1799"></wbr>parent experiences <wbr class="w480 w960"></wbr>a significant change <wbr class="w1800"></wbr>in circumstances, our attorneys can <wbr class="w480 w960"></wbr>guide you <wbr class="w481 w961 w1799"></wbr>through the proper legal procedures to modify <wbr class="w480 w960"></wbr>your child support <wbr class="w1800"></wbr>payments <wbr class="w481 w961 w1799"></wbr>accordingly. </p><p><span class="first-letter"> </span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Mediation </p></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i last_chapter w_paragraph w_text w_long_paragraph w_long_text stack column" itemid="ad256628-0918-4c96-ac06-bb48f106d90d" itemtype="text" diff_index="1" index="column" kind="stack" score="0.625" missed="0.375" tag="article" id="u-ad256628-0918-4c96-ac06-bb48f106d90d"><div kind="group" index="column" class="group column group column" id="u-ad256628-0918-4c96-ac06-bb48f106d90d-g-column"><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-leader vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-ad256628-0918-4c96-ac06-bb48f106d90d-g-column-t-paragraph"><p><span class="first-letter">M</span>ediation puts the decisions in your hands and can often <wbr class="w480 w960"></wbr>provide more expedient, <wbr class="w481 w961 w1799"></wbr>predictable results than a trial. <wbr class="w480 w960 w1800"></wbr>Much of the time, we resolve family law cases outside of <wbr class="w480 w481 w960 w961 w1799"></wbr>court. </p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>T</span>he skilled negotiators at Ascher & Denton, PLLC can help <wbr class="w480 w960"></wbr>you obtain the most <wbr class="w1799"></wbr>equitable <wbr class="w481 w961"></wbr>divorce settlement. <wbr class="w1800"></wbr>Contact <wbr class="w480 w960"></wbr>us for an initial consultation Call Ascher & <wbr class="w1799"></wbr>Denton, PLLC at <a href="tel:3603578669"><wbr class="w480 w481 w960 w961"></wbr>360-357-8669</a> or contact us by email <wbr class="w480 w960 w1800"></wbr>(ascherdent*at*<a href="http://gmail.com">gmail.com</a>) to <wbr class="w1799"></wbr>schedule an <wbr class="w481 w961"></wbr>appointment <wbr class="w480 w960"></wbr>with a family law attorney for cases in Thurston County, <wbr class="w480 w960 w1799 w1800"></wbr>Mason County or <wbr class="w481 w961"></wbr>Lewis County, Washington.</p></div></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_long_headline w_long_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading"><h1 kind="title" index="headline" class="long long_headline long_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-alternate-g-heading-t-headline-a">Ascher & Denton, Olympia<wbr class="w480"></wbr> Family Law   <wbr class="w481"></wbr> 360-357-8669   <wbr class="w480"></wbr>2401 <wbr class="w960"></wbr>Bristol Ct. SW #A-<wbr class="w481"></wbr>101,<wbr class="w480"></wbr> <wbr class="w961 w1799"></wbr>Olympia, WA  feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_cover w_media w_headline w_title w_paragraph w_text w_separator w_decoration w_leader w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-desktop-l-one-3-l-one"></div><style id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-color">body{background-color: rgba(221, 214, 180, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title w_list w_data w_short_list w_short_data layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_cover w_media w_headline w_title w_paragraph w_text w_separator w_decoration w_leader w_trailer media_gte_narrow media_gte_half media_gte_wide media_gte_full media_landscape crop_true w_short_headline w_short_title w_long_paragraph w_long_text layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_long_headline w_long_title layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-cinema-l-one-3-l-one"></div><style id="u-3bc94a76-03c8-4994-af4c-214ecb36e8ce-color">body{background-color: rgba(221, 214, 180, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 /*! Hammer.JS - v1.1.3 - 2014-05-20
  * http://eightmedia.github.io/hammer.js
  *
@@ -1699,9 +1740,11 @@ global.Hamburger = require('./hamburger');
 
 global.Highlighter = require('./highlighter');
 
+global.Player = require('./player');
+
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
+},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"./player":8,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
 var appendPage, mainpage, page, ref, ref1, urls;
 
 page = require('./reflow');
@@ -1802,7 +1845,192 @@ module.exports = function() {
 };
 
 
-},{"./reflow":8}],8:[function(require,module,exports){
+},{"./reflow":9}],8:[function(require,module,exports){
+var Player, Youtube, iframe, revealed, rgb2hex;
+
+iframe = null;
+
+Youtube = null;
+
+Player = function(id, src, width, height, color, bg) {
+  if (src.indexOf('youtube') > -1) {
+    src += '&color=white&theme=light&modestbranding=1';
+  }
+  src = src.replace('COLOR', color).replace('BG', bg);
+  if (location.protocol !== 'https:') {
+    src = src.replace('https:', 'http:');
+  }
+  iframe = document.createElement('iframe');
+  iframe.id = id;
+  iframe.setAttribute('allowfullscreen', '');
+  iframe.src = src;
+  iframe.width = width;
+  iframe.height = height;
+  iframe.style.width = '100%';
+  iframe.style.height = '100%';
+  iframe.style.left = 0;
+  iframe.style.right = 0;
+  iframe.style.position = 'absolute';
+  iframe.style.opacity = 0.2;
+  iframe.onload = function() {
+    return iframe.style.opacity = 1;
+  };
+  return iframe;
+};
+
+revealed = null;
+
+Player.reveal = function(iframe) {
+  var diff, i, left, len, parent, play, ref, ref1, sibling, target, top, translateX, translateY;
+  while (target = (target || iframe).parentNode) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (target.parentNode.classList.contains('group')) {
+        parent = target.parentNode;
+      } else {
+        parent = target;
+      }
+      revealed = iframe;
+      play = parent.getElementsByClassName('play')[0];
+      left = target.offsetWidth - play.offsetLeft - play.offsetWidth;
+      top = -play.offsetTop;
+      play.style.webkitTransformOrigin = 'top right';
+      play.style.webkitTransform = 'translateX(' + left + 'px) translateY(' + top + 'px) scale(0.5)';
+      target.classList.add('revealed');
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        if (sibling.nodeType === 1 && sibling !== parent) {
+          translateX = translateY = null;
+          if ((diff = sibling.offsetLeft + sibling.offsetWidth - parent.offsetLeft) > 2 && parent.offsetLeft >= sibling.offsetLeft) {
+            translateX = -diff;
+          }
+          if ((diff = target.offsetLeft + target.offsetWidth - sibling.offsetLeft) > 2 && parent.offsetLeft <= sibling.offsetLeft) {
+            if (!translateX || Math.abs(diff) < Math.abs(translateX)) {
+              translateX = diff;
+            }
+          }
+          if ((diff = sibling.offsetTop + sibling.offsetHeight - parent.offsetTop) > 2 && parent.offsetTop >= sibling.offsetTop) {
+            translateY = -diff;
+          }
+          if ((diff = target.offsetTop + target.offsetHeight - sibling.offsetTop) > 2 && parent.offsetTop <= sibling.offsetTop) {
+            if (!translateY || Math.abs(diff) < Math.abs(translateY)) {
+              translateY = diff;
+            }
+          }
+          if (Math.abs(translateX) > Math.abs(translateY)) {
+            sibling.style.webkitTransform = 'translateY(' + translateY + 'px)';
+          } else {
+            sibling.style.webkitTransform = 'translateX(' + translateX + 'px)';
+          }
+          console.log(translateX, translateY, sibling);
+        }
+      }
+    }
+  }
+};
+
+Player.hide = function(iframe) {
+  var i, len, parent, play, ref, ref1, sibling;
+  while (parent = (parent || iframe).parentNode) {
+    if ((ref = parent.classList) != null ? ref.contains('revealed') : void 0) {
+      parent.classList.remove('revealed');
+      if (parent.parentNode.classList.contains('group')) {
+        parent = parent.parentNode;
+      }
+      play = parent.getElementsByClassName('play')[0];
+      play.style.webkitTransform = '';
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        sibling.style.webkitTransform = '';
+      }
+    }
+  }
+  return revealed = null;
+};
+
+window.addEventListener('resize', function() {
+  return setTimeout(function() {
+    return requestAnimationFrame(function() {
+      if (revealed) {
+        if (revealed.offsetWidth) {
+          return Player.reveal(revealed);
+        } else {
+          return Player.stop(revealed);
+        }
+      }
+    });
+  }, 10);
+});
+
+Player.stop = function(iframe) {
+  var old;
+  old = iframe;
+  iframe.style.opacity = 0;
+  setTimeout(function() {
+    var ref;
+    return (ref = old.parentNode) != null ? ref.removeChild(old) : void 0;
+  }, 300);
+  Player.hide(iframe);
+  return iframe = null;
+};
+
+document.addEventListener('click', function(e) {
+  var bg, color, header, parent, play, ref, ref1, results, styles, target;
+  target = e.target;
+  results = [];
+  while (target) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (play = target.getElementsByClassName('play')[0]) {
+        if ((iframe != null ? iframe.parentNode : void 0) === target) {
+          Player.stop(iframe);
+        } else {
+          if (iframe) {
+            Player.stop(iframe);
+          }
+          color = bg = null;
+          header = (ref1 = target.parentNode.parentNode.getElementsByClassName('title')[0]) != null ? ref1.firstChild : void 0;
+          parent = header || play;
+          while (parent) {
+            if (parent.nodeType === 1) {
+              styles = window.getComputedStyle(parent);
+              if (styles.color.indexOf('rgba') === -1 || !styles.color.match(/,\s*0\)/)) {
+                if (color == null) {
+                  color = styles.color;
+                }
+              }
+              if (styles['background-color'].indexOf('rgba') === -1 || !styles['background-color'].match(/,\s*0\)/)) {
+                if (bg == null) {
+                  bg = styles['background-color'];
+                }
+              }
+            }
+            parent = parent.parentNode;
+          }
+          iframe = Player(play.id + '-player', play.getAttribute('data-src'), play.getAttribute('data-width'), play.getAttribute('data-height'), rgb2hex(color), rgb2hex(bg));
+          target.appendChild(iframe);
+          Player.reveal(iframe);
+        }
+        e.preventDefault();
+        break;
+      }
+    }
+    results.push(target = target.parentNode);
+  }
+  return results;
+});
+
+rgb2hex = function(rgb) {
+  rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+  if (rgb && rgb.length === 4) {
+    return ("0" + parseInt(rgb[1], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[2], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[3], 10).toString(16)).slice(-2);
+  }
+};
+
+window.exports = window.Player = Player;
+
+
+},{}],9:[function(require,module,exports){
 module.exports = {
   reflow: function(container) {
     var counter, heights, hidden, hole, holed, holes, i, id, ids, index, j, k, l, last, layout, layouts, len, len1, len2, len3, m, mutations, name, node, ref, ref1, ref2, stack, stacks;
@@ -2067,7 +2295,7 @@ module.exports = function(callback) {
   } else {
     protocol = '';
   }
-  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.4/gss.document.parser.js";
+  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.8/gss.document.parser.js";
   if (location.toString().indexOf('//localhost:8080') > -1) {
     return module.exports.load(protocol + "//localhost:8080/node_modules/gss-document/dist/gss.document.parser.js", callback, function() {
       return module.exports.load(url, callback);
