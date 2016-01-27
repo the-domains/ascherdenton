@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T23:52:10.954Z'
-dateModified: '2016-01-06T23:52:01.191Z'
+datePublished: '2016-01-27T22:10:02.120Z'
+dateModified: '2016-01-27T22:08:26.705Z'
 author: []
 title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -31,8 +31,6 @@ _type: Article
 
 Formerly Legal Assistant (2008-2015)  
 
-Formerly Legal Assistant (2008-2015)  
-
 Now a Law Clerk (2015-2019)  
 
 Future Attorney (in about 2020)
@@ -48,7 +46,7 @@ She also enjoys cooking and sharing delicious food, taking pictures of her cat, 
 
 Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nearing completion of her Associate's Degree at Spokane Community College. She proved herself so invaluable that she came to work here permanently as a legal assistant in January of 2014\. 
 
-Khrys is now enrolled at The Evergreen State College (Kaylene's and Jim's alma mater) where she will complete her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She will celebrate twelve years clean from drug use on January 1, 2016\. Khrys is contemplating what her next career goals will be. She may decide to become an attorney and many of our clients would approve heartily.
+Khrys is now enrolled at The Evergreen State College (Kaylene's and Jim's alma mater) where she will complete her Bachelor's Degree in June 2016\. Khrys is attending training to be a Guardian ad Litem and expects to start doing that kind of work after finishing her degree. Khrys has two wonderful daughters and two cats. She celebrated twelve years clean from drug use on January 1, 2016\. Khrys is contemplating what her next career goals will be. She may decide to become an attorney and many of our clients would approve heartily. 
 
 # **James Ascher, Retired Attorney**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3aaeff-1112-442c-a971-e695f90efa5e.jpg)
