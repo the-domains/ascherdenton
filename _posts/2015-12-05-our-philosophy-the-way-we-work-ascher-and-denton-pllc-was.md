@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T01:35:34.283Z'
-dateModified: '2015-12-06T01:35:31.447Z'
+datePublished: '2016-01-27T22:14:52.509Z'
+dateModified: '2016-01-27T22:14:50.461Z'
 author: []
 title: Our Philosophy
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
