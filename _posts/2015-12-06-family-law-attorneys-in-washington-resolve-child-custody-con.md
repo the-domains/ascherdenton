@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T01:21:19.350Z'
-dateModified: '2015-12-30T01:20:57.273Z'
+datePublished: '2016-01-27T22:09:52.107Z'
+dateModified: '2016-01-27T22:07:53.326Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
