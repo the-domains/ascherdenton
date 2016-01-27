@@ -16,7 +16,7 @@ keywords:
   - lawyer
   - construed
 description: ''
-datePublished: '2016-01-27T22:12:38.502Z'
+datePublished: '2016-01-27T22:12:38.527Z'
 dateModified: '2016-01-27T22:12:35.958Z'
 author: []
 related: []
