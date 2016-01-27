@@ -16,12 +16,12 @@ keywords:
   - lawyer
   - construed
 description: ''
-datePublished: '2015-12-30T20:06:01.332Z'
-dateModified: '2015-12-30T20:04:53.004Z'
+datePublished: '2016-01-27T22:11:16.785Z'
+dateModified: '2016-01-27T22:11:12.249Z'
 author: []
 related: []
 app_links: []
-title: Find Us
+title: ''
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 published: true
 authors: []
