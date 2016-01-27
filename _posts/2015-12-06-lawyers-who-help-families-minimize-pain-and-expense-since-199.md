@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T01:23:32.514Z'
-dateModified: '2015-12-06T01:23:08.729Z'
+datePublished: '2016-01-27T22:16:01.809Z'
+dateModified: '2016-01-27T22:15:45.951Z'
 author: []
 title: 'Minimize Pain & Expense'
 sourcePath: _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
