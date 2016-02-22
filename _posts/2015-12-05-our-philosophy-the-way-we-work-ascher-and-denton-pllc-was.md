@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-27T22:14:52.615Z'
-dateModified: '2016-01-27T22:14:50.461Z'
+description: 'In Olympia, Washington, you will not find a better family law attorney than ours.'
+datePublished: '2016-02-22T00:52:14.769Z'
+dateModified: '2016-02-22T00:52:10.587Z'
 author: []
 title: Our Philosophy
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
