@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Olympia lawyer in your children's best interests"
-datePublished: '2016-02-21T23:41:52.732Z'
-dateModified: '2016-02-21T23:37:56.630Z'
+datePublished: '2016-02-22T00:59:20.431Z'
+dateModified: '2016-02-22T00:59:04.483Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
