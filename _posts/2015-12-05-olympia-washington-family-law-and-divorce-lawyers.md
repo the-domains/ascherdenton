@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-06T23:53:26.654Z'
-dateModified: '2016-01-06T23:53:21.890Z'
+description: Divorce and child custody law firm with attorneys who really help people in Olympia Washington
+datePublished: '2016-02-22T01:00:09.922Z'
+dateModified: '2016-02-22T00:57:03.474Z'
 title: Home
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
