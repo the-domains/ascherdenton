@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-27T22:09:41.072Z'
-dateModified: '2016-01-27T22:09:36.428Z'
+description: Thurston County family lawyer who helps both sides reach agreement and save money and time.
+datePublished: '2016-02-22T00:59:36.785Z'
+dateModified: '2016-02-22T00:53:19.172Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
