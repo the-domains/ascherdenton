@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-27T22:16:01.809Z'
-dateModified: '2016-01-27T22:15:45.951Z'
+description: "Olympia Family Law Attorneys who don't waste your money or your emotions but we do seek the best solutions"
+datePublished: '2016-02-22T00:59:28.747Z'
+dateModified: '2016-02-22T00:51:06.589Z'
 author: []
 title: 'Minimize Pain & Expense'
 sourcePath: _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
