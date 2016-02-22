@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-27T22:10:02.374Z'
-dateModified: '2016-01-27T22:08:26.705Z'
+description: 'Kaylene Petitt, Khrys Kayne, Melissa Denton, Jim Ascher, Olympia Family Law firm working joyously together.'
+datePublished: '2016-02-22T00:59:47.436Z'
+dateModified: '2016-02-22T00:55:17.985Z'
 author: []
 title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
