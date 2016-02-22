@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-30T20:22:22.410Z'
-dateModified: '2015-12-30T20:22:19.136Z'
+description: 'Melissa Denton, highly experienced excellent family law attorney in Olympia, WA'
+datePublished: '2016-02-22T01:00:01.307Z'
+dateModified: '2016-02-22T00:55:55.694Z'
 author: []
 title: Melissa Denton
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
