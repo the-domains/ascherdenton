@@ -15,13 +15,13 @@ keywords:
   - thurston
   - lawyer
   - construed
-description: ''
-datePublished: '2016-01-27T22:12:38.555Z'
-dateModified: '2016-01-27T22:12:35.958Z'
+description: 'Ascher & Denton is easy to find, convenient to the courthouse and easy to reach in Olympia, Washington'
+datePublished: '2016-02-22T01:00:21.304Z'
+dateModified: '2016-02-22T00:58:48.218Z'
 author: []
 related: []
 app_links: []
-title: ''
+title: 'Contact us: Ascher & Denton'
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 published: true
 authors: []
