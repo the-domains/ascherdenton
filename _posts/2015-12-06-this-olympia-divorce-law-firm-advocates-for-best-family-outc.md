@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: This Olympia Divorce Law Firm Advocates for Best Family Outcomes Olympia lawyers seek dispute resolution with minimal expense and discord The dissolution of you
-datePublished: '2016-02-22T00:49:55.894Z'
-dateModified: '2016-02-22T00:49:50.012Z'
+description: 'The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family. '
+datePublished: '2016-04-22T22:10:48.244Z'
+dateModified: '2016-04-22T22:09:57.464Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
@@ -18,6 +17,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: this-olympia-divorce-law-firm-advocates-for-best-family-outc/index.html
 _context: 'http://schema.org'
 _type: Article
