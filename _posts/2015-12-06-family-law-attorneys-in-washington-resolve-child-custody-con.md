@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Olympia lawyer in your children's best interests"
-datePublished: '2016-02-22T00:59:20.431Z'
-dateModified: '2016-02-22T00:59:04.483Z'
+description: ' Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families. '
+datePublished: '2016-04-22T22:44:54.456Z'
+dateModified: '2016-04-22T22:07:46.846Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
@@ -18,6 +17,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: washington-family-law-attorneys-resolving-child-custody-conf/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -25,11 +25,11 @@ _type: Article
 ---
 # **Child Custody**
 
-Compassionate lawyers with more than 25 years of experience negotiating  best outcomes for families. 
+Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families. 
 
 Child custody and parenting plans are the most important issue a parent faces during divorce. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b46fc60-c0a8-4a27-884d-649eca529550.JPG)
 
-Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area.  Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.  
+Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably. 
 
 Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experience in child custody matters. We stand by your side on all issues of child custody and visitation, including extensive knowledge about: 
 
