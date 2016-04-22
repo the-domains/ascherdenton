@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Thurston County family lawyer who helps both sides reach agreement and save money and time.
-datePublished: '2016-02-22T00:59:36.785Z'
-dateModified: '2016-02-22T00:53:19.172Z'
+description: The lawyer makes sure filing deadlines are known and rights are preserved. Any lawyer who provides One Lawyer services should have ten or more years of subject area practice experience and excellent credentials. Less experienced lawyers can act as One Lawyer if they consult with such an experienced lawyer as a mentor to review each significant legal issue. The highest standards of legal practice must be used and the lawyer has an ethical duty not to allow parties to abuse an imbalance of power or to reach illegal or unethical agreements.
+datePublished: '2016-04-22T22:49:15.140Z'
+dateModified: '2016-04-22T22:27:32.941Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
@@ -18,6 +17,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: one-lawyer/index.html
 _context: 'http://schema.org'
 _type: Article
