@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Family law specifically includes many kinds of cases, including (but not limited to): '
-datePublished: '2016-04-27T18:59:26.834Z'
-dateModified: '2016-04-27T18:57:43.081Z'
+datePublished: '2016-04-27T21:38:34.549Z'
+dateModified: '2016-04-27T21:38:31.252Z'
 author:
   - name: ''
     url: ''
@@ -25,11 +25,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-**At Ascher & Denton, we only practice Family Law. **
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad35f343661833ad9f24bbbcce16a129c817e8e.jpg)
 
 Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b69943024d4253154029482caf98478/passthrough.jpg?height=563&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F27c07d419422155b507daf402a2d70379419c483.jpg&width=750)
 
 Family law specifically includes many kinds of cases, including (but not limited to): 
 
