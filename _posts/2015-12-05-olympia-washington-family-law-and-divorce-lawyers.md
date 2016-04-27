@@ -1,15 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Divorce and child custody law firm with attorneys who really help people in Olympia Washington
-datePublished: '2016-02-22T01:00:09.922Z'
-dateModified: '2016-02-22T00:57:03.474Z'
-title: Home
-author: []
+description: "This focus is not about being cheap, it is about providing the best value and doing things right with long term consequences in mind. Litigation is exhausting and expensive and we avoid wasted time and avoid hurting anyone's feelings as much as possible. It is just the right way to do family law."
+datePublished: '2016-04-27T19:03:06.542Z'
+dateModified: '2016-04-27T19:01:59.367Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
 published: true
 authors: []
@@ -18,12 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: home/index.html
 _type: Article
 
 ---
-## 
-
 **Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you. **
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a37eaa1a5c0b524112738a0730afb3246ca290.jpg)
 
