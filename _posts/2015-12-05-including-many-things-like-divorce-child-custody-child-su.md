@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Family law specifically includes many kinds of cases, including (but not limited to): '
-datePublished: '2016-04-27T21:42:05.711Z'
-dateModified: '2016-04-27T21:41:28.687Z'
+datePublished: '2016-04-27T21:44:16.982Z'
+dateModified: '2016-04-27T21:44:08.134Z'
 author:
   - name: ''
     url: ''
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad35f343661833ad9f24bbbcce16a129c817e8e.jpg)
+![Melissa Denton listens](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e0adfc5f65323c23b1f30cb0f39cf53931349c9.jpg)
 
 Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.
 
