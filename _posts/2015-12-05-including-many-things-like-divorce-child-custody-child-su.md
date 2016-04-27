@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Family law specifically includes many kinds of cases, including (but not limited to): '
-datePublished: '2016-04-27T18:51:36.631Z'
-dateModified: '2016-04-27T18:51:25.857Z'
+datePublished: '2016-04-27T18:59:26.834Z'
+dateModified: '2016-04-27T18:57:43.081Z'
 author:
   - name: ''
     url: ''
@@ -34,7 +34,6 @@ Many attorneys run screaming rather than practicing in this area of law because 
 Family law specifically includes many kinds of cases, including (but not limited to): 
 
 Divorce; Child Custody; Child Support; Collaborative Law; Settlement Law; Alimony; Annulment; Cohabitation Agreements; Collaborative Family Law; Community Property Law; Divorce Arbitration; Divorce Mediation; Divorce Taxation; Domestic Partnerships; Domestic Relations; Domestic Violence; Equitable Distribution; Family Arbitration; Family Mediation; Gay and Lesbian Family Law; International Family Law; Interstate Support; Marital Agreements; Marital Property Distribution; Marital Property Law; Marital Property Settlements; Matrimonial Law; Military Divorce; Non-Traditional Family Law; Paternity; Post Divorce Modification; Postnuptial Agreements; Premarital Agreements; Qualified Domestic Relations Orders (QDROs); Restraining Orders; Separation Agreements; Spousal Support; Uncontested Divorce
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0b562286d13ab6d49f25e17de872be1/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Feaeadb05885192515a511855c0356b3fb82d8d2b.jpg&width=450)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7832ce54a3e09d3d7c12bc7660f68a81114187b8.jpg)
 
 Don't blame yourself if this is hard to go through. We are here to help and we make it as smooth and simple as we can while helping you to make the choices that will work out best for you and your loved ones in the long run while getting you through the immediate tough times in the best available way.
