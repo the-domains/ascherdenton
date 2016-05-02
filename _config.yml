@@ -1,7 +1,7 @@
 name: 'Ascher & Denton, Olympia Family Law'
 favicon: null
-layout_spectrum: 0.88733
-typography_spectrum: 0.79693
+layout_spectrum: 0.56047
+typography_spectrum: 0.82581
 title: 'Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW #A-101, Olympia'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#251e0b'
-    - '#fefefe'
-    - '#b2a980'
-    - '#857d57'
-    - '#9f172d'
-  brandStrength: 0.6875
+    - '#e0ccab'
+    - '#9d8954'
+    - '#db1933'
+    - '#574833'
+    - '#fe8d21'
+  brandStrength: 0.625
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
