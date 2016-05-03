@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T17:49:00.237Z'
-dateModified: '2016-05-03T17:48:34.235Z'
+datePublished: '2016-05-03T17:49:26.822Z'
+dateModified: '2016-05-03T17:49:03.117Z'
 title: We only do family law
 author: []
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
