@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Since 1990, Ascher & Denton lawyers have been achieving the best family outcomes with minimal conflict and expense.'
-datePublished: '2016-05-03T00:50:40.655Z'
-dateModified: '2016-05-03T00:32:44.871Z'
+datePublished: '2016-05-03T00:51:08.236Z'
+dateModified: '2016-05-03T00:51:05.543Z'
 author: []
 title: 'Minimize Pain & Expense'
 sourcePath: _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
