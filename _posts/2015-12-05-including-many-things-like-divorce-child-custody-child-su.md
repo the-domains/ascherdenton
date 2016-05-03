@@ -1,20 +1,23 @@
 ---
-authors: []
-dateModified: '2016-05-03T16:09:58.806Z'
-datePublished: '2016-05-03T16:10:20.909Z'
-hasPage: true
 inFeed: false
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
-title: We only do family law
 description: ''
+datePublished: '2016-05-03T17:49:00.237Z'
+dateModified: '2016-05-03T17:48:34.235Z'
+title: We only do family law
 author: []
-starred: false
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
 published: true
+authors: []
+publisher:
+  name: ascherdenton.com
+  domain: www.ascherdenton.com
+  url: null
+  favicon: null
+starred: false
 url: we-only-practice-family-law/index.html
 _context: 'http://schema.org'
 _type: Article
