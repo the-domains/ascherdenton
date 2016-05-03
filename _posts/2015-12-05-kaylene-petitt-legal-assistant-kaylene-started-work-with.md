@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Kaylene Petitt, Khrys Kayne, Melissa Denton, Jim Ascher, Olympia Family Law firm working joyously together.'
-datePublished: '2016-02-22T00:59:47.436Z'
-dateModified: '2016-02-22T00:55:17.985Z'
+description: ''
+datePublished: '2016-05-03T00:58:34.245Z'
+dateModified: '2016-05-03T00:58:33.781Z'
 author: []
 title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
@@ -18,6 +17,7 @@ publisher:
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: kaylene-petitt-law-clerk/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -29,13 +29,13 @@ _type: Article
 # **Kaylene Petitt, Law Clerk**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15ba0a3e-5e5c-41cf-9bd7-db21159b187e.jpg)
 
-Formerly Legal Assistant (2008-2015)  
+Formerly Legal Assistant (2008-2015) 
 
-Now a Law Clerk (2015-2019)  
+Now a Law Clerk (2015-2019) 
 
 Future Attorney (in about 2020)
 
-In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her Bachelor's Degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers.  Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. 
+In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her Bachelor's Degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers. Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from. 
 
 In mid 2015, Kaylene started her four year course of study as a Law Clerk (with Melissa Denton's mentoring) to become an attorney with this firm. 
 
