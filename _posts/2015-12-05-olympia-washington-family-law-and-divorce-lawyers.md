@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "This focus is not about being cheap, it is about providing the best value and doing things right with long term consequences in mind. Litigation is exhausting and expensive and we avoid wasted time and avoid hurting anyone's feelings as much as possible. It is just the right way to do family law."
-datePublished: '2016-05-03T00:38:55.771Z'
-dateModified: '2016-05-03T00:37:34.865Z'
+datePublished: '2016-05-03T23:18:55.746Z'
+dateModified: '2016-05-03T23:12:04.824Z'
 title: ''
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 **Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you. **
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a37eaa1a5c0b524112738a0730afb3246ca290.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da9e4c129258e43743f7def16ea75f62293edcdc.jpg)
 
 Since 1990, Ascher & Denton has been providing top quality legal services to families in Thurston County. We focus on helping people through the legal process at the least cost, emotionally and financially. 
 
