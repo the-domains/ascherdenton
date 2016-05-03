@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families. '
-datePublished: '2016-05-03T16:08:04.388Z'
-dateModified: '2016-05-03T16:07:52.641Z'
+datePublished: '2016-05-03T16:15:14.352Z'
+dateModified: '2016-05-03T16:15:10.613Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
@@ -27,9 +27,9 @@ _type: Article
 
 Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families. 
 
-Child custody and parenting plans are the most important issue a parent faces during divorce. 
+Child custody and parenting plans are the most important issue a parent faces during divorce. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/906d05e2-8a18-448c-8233-8eb135839ba9.jpg)
 
-Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/906d05e2-8a18-448c-8233-8eb135839ba9.jpg)
+Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably. 
 
 Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experience in child custody matters. We stand by your side on all issues of child custody and visitation, including extensive knowledge about: 
 
