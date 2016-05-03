@@ -15,8 +15,8 @@ keywords:
   - lawyer
   - construed
 description: 'call us at:360-357-8669'
-datePublished: '2016-05-03T17:47:17.074Z'
-dateModified: '2016-05-03T17:46:57.470Z'
+datePublished: '2016-05-03T18:58:10.343Z'
+dateModified: '2016-05-03T18:58:04.984Z'
 author: []
 related: []
 app_links: []
