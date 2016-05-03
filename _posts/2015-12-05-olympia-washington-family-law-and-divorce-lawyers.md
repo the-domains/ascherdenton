@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "This focus is not about being cheap, it is about providing the best value and doing things right with long term consequences in mind. Litigation is exhausting and expensive and we avoid wasted time and avoid hurting anyone's feelings as much as possible. It is just the right way to do family law."
-datePublished: '2016-05-03T00:37:12.453Z'
-dateModified: '2016-05-03T00:37:05.303Z'
+datePublished: '2016-05-03T00:38:55.771Z'
+dateModified: '2016-05-03T00:37:34.865Z'
 title: ''
 author:
   - name: ''
