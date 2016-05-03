@@ -1,11 +1,8 @@
 ---
-authors: []
-dateModified: '2016-05-03T17:40:00.732Z'
-datePublished: '2016-05-03T17:44:03.869Z'
-hasPage: true
 inFeed: true
-inLanguage: en
+hasPage: true
 inNav: true
+inLanguage: en
 keywords:
   - ascher
   - denton
@@ -17,16 +14,22 @@ keywords:
   - thurston
   - lawyer
   - construed
-publisher:
-  domain: www.ascherdenton.com
-  name: 'Ascher & Denton, PLLC'
-  url: 'http://www.ascherdenton.com'
-title: Find us
 description: 'call us at:360-357-8669'
+datePublished: '2016-05-03T17:45:52.359Z'
+dateModified: '2016-05-03T17:44:11.303Z'
 author: []
-starred: false
+related: []
+app_links: []
+title: Find us
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 published: true
+authors: []
+publisher:
+  name: 'Ascher & Denton, PLLC'
+  domain: www.ascherdenton.com
+  url: 'http://www.ascherdenton.com'
+  favicon: null
+starred: false
 url: olympia-washington-family-law-or-ascher-and-denton/index.html
 _context: 'http://schema.org'
 _type: MediaObject
