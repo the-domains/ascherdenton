@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - ascher
   - denton
@@ -15,13 +14,13 @@ keywords:
   - thurston
   - lawyer
   - construed
-description: 'Ascher & Denton is easy to find, convenient to the courthouse and easy to reach in Olympia, Washington'
-datePublished: '2016-02-22T01:00:21.304Z'
-dateModified: '2016-02-22T00:58:48.218Z'
+description: 'call us at:360-357-8669 '
+datePublished: '2016-05-03T16:17:06.064Z'
+dateModified: '2016-05-03T16:17:05.644Z'
 author: []
 related: []
 app_links: []
-title: 'Contact us: Ascher & Denton'
+title: ''
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 published: true
 authors: []
@@ -30,6 +29,7 @@ publisher:
   domain: www.ascherdenton.com
   url: 'http://www.ascherdenton.com'
   favicon: null
+starred: false
 url: olympia-washington-family-law-or-ascher-and-denton/index.html
 _context: 'http://schema.org'
 _type: MediaObject
