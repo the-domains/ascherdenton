@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.'
-datePublished: '2016-05-03T23:18:37.385Z'
-dateModified: '2016-05-03T23:10:51.189Z'
+datePublished: '2016-05-10T22:30:42.443Z'
+dateModified: '2016-05-10T22:30:28.787Z'
 title: We only do family law
 author: []
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
-published: true
 authors: []
 publisher:
   name: ascherdenton.com
@@ -23,8 +22,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa5a9ab-2100-47b7-bbf2-ac1fbf220366.jpg)
+
+Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.
 
 Family law specifically includes many kinds of cases, including (but not limited to):
 
