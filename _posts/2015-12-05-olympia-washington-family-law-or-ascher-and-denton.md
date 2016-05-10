@@ -15,14 +15,13 @@ keywords:
   - lawyer
   - construed
 description: 'call us at:360-357-8669'
-datePublished: '2016-05-03T18:59:15.633Z'
-dateModified: '2016-05-03T18:58:59.482Z'
+datePublished: '2016-05-10T22:20:39.939Z'
+dateModified: '2016-05-10T22:20:39.529Z'
 author: []
 related: []
 app_links: []
 title: Find us
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
-published: true
 authors: []
 publisher:
   name: 'Ascher & Denton, PLLC'
