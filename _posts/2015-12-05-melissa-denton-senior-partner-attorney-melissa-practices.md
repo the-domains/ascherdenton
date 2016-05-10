@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Melissa Denton is the founding partner and senior lawyer at Ascher & Denton. She has practiced family law in Thurston County since 1990.'
-datePublished: '2016-05-10T01:22:27.729Z'
-dateModified: '2016-05-10T01:20:10.414Z'
+datePublished: '2016-05-10T01:22:45.094Z'
+dateModified: '2016-05-10T01:22:31.484Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
