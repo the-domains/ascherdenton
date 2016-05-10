@@ -3,21 +3,20 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Melissa Denton, highly experienced excellent family law attorney in Olympia, WA'
-datePublished: '2016-02-22T01:00:01.307Z'
-dateModified: '2016-02-22T00:55:55.694Z'
+description: 'Melissa Denton is the founding partner and senior lawyer at Ascher & Denton. She has practiced family law in Thurston County since 1990.'
+datePublished: '2016-05-10T01:22:27.729Z'
+dateModified: '2016-05-10T01:20:10.414Z'
 author: []
-title: Melissa Denton
+title: ''
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
-published: true
 authors: []
 publisher:
   name: ascherdenton.com
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: melissa-denton-family-law-attorney/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -33,9 +32,15 @@ Melissa's focus is on helping folks who want to resolve their cases with a minim
 
 Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please be sure to check out the description of One Lawyer on our website. It works wonderfully when both sides have the trust and respect necessary to work together for an agreed, no court needed, resolution.
 
+**Recent Advice**
+
+Melissa Denton gives free advice by volunteering at the local legal services clinic, to the Olympia Free Clinic (medical help for the poor) and on the AVVO web site. Click here to see samples of Melissa's advice 
+
 **Famous Case**
 
 Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called _Rideout v. Rideout_,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003). This case, and many other cases Melissa has worked on, have enriched her perspective and the large amount of experience she can draw upon from practicing family law since 1990\.
+
+**Melissa's background**
 
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
