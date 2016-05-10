@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Melissa Denton is the founding partner and senior lawyer at Ascher & Denton. She has practiced family law in Thurston County since 1990.'
-datePublished: '2016-05-10T01:22:45.094Z'
-dateModified: '2016-05-10T01:22:31.484Z'
+datePublished: '2016-05-10T01:25:20.831Z'
+dateModified: '2016-05-10T01:25:20.123Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
@@ -34,7 +34,7 @@ Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please
 
 **Recent Advice**
 
-Melissa Denton gives free advice by volunteering at the local legal services clinic, to the Olympia Free Clinic (medical help for the poor) and on the AVVO web site. Click here to see samples of Melissa's advice 
+Melissa Denton gives free advice by volunteering at the local legal services clinic, to the Olympia Free Clinic (medical help for the poor) and on the AVVO web site. Click [here][0] to see samples of Melissa's advice 
 
 **Famous Case**
 
@@ -56,3 +56,5 @@ Admitted to the Washington State Bar in 1989, as well as to practice before the 
 **Bar Affiliations**: Thurston County (Member, Family Law Section; Former President and Founding Member of Thurston County Young Lawyers) and Washington State (Former Member, Board of Trustees, Young Lawyers Division) Bar Associations
 
 **Volunteer Work**: Melissa volunteers in several capacities with her church, including past service on the board, service as vice-president, president of the board and other committees and activities. She is also the volunteer attorney advising The Olympia Free Clinic and teaches and mentors other attorneys at the Thurston County Volunteer Legal Clinic.
+
+[0]: https://www.avvo.com/attorneys/98502-wa-melissa-denton-18512/answers.html
