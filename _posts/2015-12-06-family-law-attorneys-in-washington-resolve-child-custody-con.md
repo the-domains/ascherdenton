@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families. '
-datePublished: '2016-05-18T20:34:22.470Z'
-dateModified: '2016-05-18T20:34:04.733Z'
+datePublished: '2016-05-18T20:35:05.498Z'
+dateModified: '2016-05-18T20:35:02.636Z'
 author: []
 title: Child Custody
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
