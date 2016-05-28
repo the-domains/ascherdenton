@@ -1,23 +1,22 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'In Olympia, Washington, you will not find a better family law attorney than ours.'
-datePublished: '2016-02-22T00:52:14.769Z'
-dateModified: '2016-02-22T00:52:10.587Z'
+description: 'A law of physics also applies to lawsuits: every action brings an equal and opposite reaction. We believe it is smart to be professionally courteous to opposing counsel and to opposing parties. We work hard to maintain our excellent reputation in the legal community. '
+datePublished: '2016-05-28T00:05:53.719Z'
+dateModified: '2016-05-28T00:05:13.670Z'
 author: []
-title: Our Philosophy
+title: ''
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
-published: true
 authors: []
 publisher:
   name: ascherdenton.com
   domain: www.ascherdenton.com
   url: null
   favicon: null
+starred: false
 url: our-philosophy/index.html
 _context: 'http://schema.org'
 _type: Article
