@@ -1,24 +1,29 @@
 ---
-authors: []
-dateModified: '2016-05-28T00:23:55.559Z'
-datePublished: '2016-05-28T00:24:07.299Z'
-description: 'The end of marriage is the beginning of a future you can choose. '
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
-title: Divorce Help in Olympia
+description: 'The end of marriage is the beginning of a future you can choose. '
+datePublished: '2016-05-28T00:27:13.221Z'
+dateModified: '2016-05-28T00:27:06.125Z'
 author: []
-starred: false
+title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
+authors: []
+publisher:
+  name: ascherdenton.com
+  domain: www.ascherdenton.com
+  url: null
+  favicon: null
+starred: false
 url: this-olympia-divorce-law-firm-advocates-for-best-family-outc/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![The end of marriage is the beginning of a future you can choose. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg)
+
 # **Divorce Help in Olympia**
 
 The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.
@@ -31,7 +36,6 @@ With more than 25 years of experience in family law matters, the attorneys at As
 * Division of marital debts
 * Sale or possession of the marital home
 * Spousal support and temporary support
-![The end of marriage is the beginning of a future you can choose. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg)
 
 **We are also family law mediators who encourage cooperation**
 
