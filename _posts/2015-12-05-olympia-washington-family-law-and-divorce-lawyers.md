@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-05-28T21:22:42.527Z'
+datePublished: '2016-05-28T21:22:51.959Z'
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-05-28T21:22:42.182Z'
+dateModified: '2016-05-28T21:22:51.448Z'
 title: Family law done right
 description: enjoy our work. Let us know how we can help you.
 inNav: true
-starred: false
+starred: true
 url: home/index.html
 _type: Article
 
