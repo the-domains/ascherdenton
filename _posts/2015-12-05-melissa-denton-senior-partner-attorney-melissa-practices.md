@@ -1,28 +1,28 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Melissa Denton is the founding partner and senior lawyer at Ascher & Denton. She has practiced family law in Thurston County since 1990.'
-datePublished: '2016-05-10T01:25:20.831Z'
-dateModified: '2016-05-10T01:25:20.123Z'
-author: []
-title: ''
+datePublished: '2016-05-28T22:01:59.243Z'
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-05-28T22:01:45.659Z'
+title: Melissa Denton
 publisher:
   name: ascherdenton.com
   domain: www.ascherdenton.com
   url: null
   favicon: null
+description: Family law attorney in Thurston County since 1990
+inLanguage: null
+inNav: true
 starred: false
 url: melissa-denton-family-law-attorney/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac8157a-925b-4bb9-b6e6-c0560677e1ee.jpg)
+![Family law attorney in Thurston County since 1990](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6ad570187a3596b90f11393b294600bb593e0f.jpg)
 
 **Melissa Denton** is the founding partner and senior lawyer at Ascher & Denton. She has practiced family law in Thurston County since 1990\.
 
@@ -34,18 +34,18 @@ Melissa has pioneered a new way of practicing law, called **One Lawyer**. Please
 
 **Recent Advice**
 
-Melissa Denton gives free advice by volunteering at the local legal services clinic, to the Olympia Free Clinic (medical help for the poor) and on the AVVO web site. Click [here][0] to see samples of Melissa's advice 
+Melissa Denton gives free advice by volunteering at the local legal services clinic, to the Olympia Free Clinic (medical help for the poor) and on the AVVO web site. Click [here][0] to see samples of Melissa's advice
 
 **Famous Case**
 
-Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called _Rideout v. Rideout_,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003). This case, and many other cases Melissa has worked on, have enriched her perspective and the large amount of experience she can draw upon from practicing family law since 1990\.
+Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called Rideout v. Rideout,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003). This case, and many other cases Melissa has worked on, have enriched her perspective and the large amount of experience she can draw upon from practicing family law since 1990\.
 
 **Melissa's background**
 
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d6e3c-d4f3-4ceb-ac16-1a00df4da053.JPG)
+![being in a box is not the only way to be](https://s3-us-west-2.amazonaws.com/the-grid-img/p/382c2954880503dbbdfee3b59b8b66ce5c33136e.jpg)
 
-**_Melissa Denton's credentials_**
+_**Melissa Denton's credentials**_
 
 Admitted to the Washington State Bar in 1989, as well as to practice before the US Federal District Court for Western Washington
 
