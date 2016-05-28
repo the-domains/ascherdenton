@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family. '
-datePublished: '2016-05-10T22:28:57.652Z'
-dateModified: '2016-05-10T22:28:44.854Z'
+datePublished: '2016-05-28T00:03:01.495Z'
+dateModified: '2016-05-28T00:02:47.243Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
