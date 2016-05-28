@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
+authors: []
+dateModified: '2016-05-28T01:04:52.756Z'
+datePublished: '2016-05-28T01:05:02.153Z'
 description: 'Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you.'
-datePublished: '2016-05-28T01:03:36.696Z'
-dateModified: '2016-05-28T01:03:31.058Z'
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
 title: ''
 author: []
-sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
-authors: []
-publisher: null
 starred: true
+sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
 url: home/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d31a22e3-af78-4fef-b80d-2932dcdf7469.jpg)
+![We are so glad you are here](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d31a22e3-af78-4fef-b80d-2932dcdf7469.jpg)
 
 **Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you.**
 
