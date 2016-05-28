@@ -1,19 +1,22 @@
 ---
-authors: []
-dateModified: '2016-05-27T23:49:37.737Z'
-datePublished: '2016-05-28T00:02:27.160Z'
-description: "When children's needs are at stake, nothing else is nearly as important. Have us help."
-hasPage: true
 inFeed: false
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
+description: "When children's needs are at stake, nothing else is nearly as important. Have us help."
+datePublished: '2016-05-28T00:03:17.282Z'
+dateModified: '2016-05-28T00:02:35.792Z'
 title: Parenting Plan - Child Custody
 author: []
-starred: false
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
+authors: []
+publisher:
+  name: ascherdenton.com
+  domain: www.ascherdenton.com
+  url: null
+  favicon: null
+starred: false
 url: washington-family-law-attorneys-resolving-child-custody-conf/index.html
 _context: 'http://schema.org'
 _type: Article
