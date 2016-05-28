@@ -1,28 +1,25 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
-datePublished: '2016-05-28T00:58:58.196Z'
-dateModified: '2016-05-28T00:57:57.250Z'
-title: ''
-author: []
-sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 authors: []
+dateModified: '2016-05-28T01:01:49.692Z'
+datePublished: '2016-05-28T01:01:57.832Z'
+description: Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+hasPage: true
+inFeed: false
+inNav: true
+keywords: []
 publisher:
-  name: ascherdenton.com
   domain: www.ascherdenton.com
-  url: null
-  favicon: null
+  name: ascherdenton.com
+title: Child custody and patenting plans
+author: []
 starred: false
+sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 url: washington-family-law-attorneys-resolving-child-custody-conf/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02cb4b2-454d-49bc-bb1d-9b608c003848.jpg)
+![Nothing is more important to parents. We help you make wise decisions.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02cb4b2-454d-49bc-bb1d-9b608c003848.jpg)
 
 Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
 
@@ -42,7 +39,7 @@ Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experie
 **Mediation: a tool for cooperation**
 
 Children are best served when parents maintain a cordial relationship. Through the structured process of mediation, parents can set aside enmity and agree on key points concerning their children. Mediation can be a highly effective tool, helping you preserve your children's well-being and the stability of their lives during the turbulent process of divorce. The predictability of mediation reduces the stress of child custody conflicts and puts important child-rearing decisions in your hands, rather than in the hands of the court. Attorneys at Ascher & Denton, PLLC expertly guide negotiations towards a settlement that protects your child's best interests and your parental rights.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd866475-4003-45f6-ab08-b39e9f5da3cc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f42df9b994b42d6a51ca5793aec36903109f5e5.jpg)
 
 **By your side in litigation**
 
