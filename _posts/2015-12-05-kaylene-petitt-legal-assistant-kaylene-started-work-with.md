@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-28T00:04:47.285Z'
-dateModified: '2016-05-28T00:04:44.345Z'
+datePublished: '2016-05-28T00:34:50.096Z'
+dateModified: '2016-05-28T00:14:20.792Z'
 author: []
 title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
