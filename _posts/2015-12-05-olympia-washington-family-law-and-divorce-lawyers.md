@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy our work. Let us know how we can help you.'
-datePublished: '2016-05-28T01:03:25.086Z'
-dateModified: '2016-05-28T01:03:24.729Z'
+datePublished: '2016-05-28T01:03:36.696Z'
+dateModified: '2016-05-28T01:03:31.058Z'
 title: ''
 author: []
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
