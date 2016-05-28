@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "When children's needs are at stake, nothing else is nearly as important. Have us help."
-datePublished: '2016-05-28T00:03:17.282Z'
-dateModified: '2016-05-28T00:02:35.792Z'
-title: Parenting Plan - Child Custody
+description: Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+datePublished: '2016-05-28T00:52:35.001Z'
+dateModified: '2016-05-28T00:52:18.055Z'
+title: ''
 author: []
 sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 authors: []
@@ -22,13 +22,13 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![When children's needs are at stake, nothing else is nearly as important. Have us help.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/906d05e2-8a18-448c-8233-8eb135839ba9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02cb4b2-454d-49bc-bb1d-9b608c003848.jpg)
 
-* Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
 
 Child custody and parenting plans are the most important issue a parent faces during divorce.
 
-* Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.
+Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.
 
 Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experience in child custody matters. We stand by your side on all issues of child custody and visitation, including extensive knowledge about:
 
@@ -42,6 +42,7 @@ Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experie
 **Mediation: a tool for cooperation**
 
 Children are best served when parents maintain a cordial relationship. Through the structured process of mediation, parents can set aside enmity and agree on key points concerning their children. Mediation can be a highly effective tool, helping you preserve your children's well-being and the stability of their lives during the turbulent process of divorce. The predictability of mediation reduces the stress of child custody conflicts and puts important child-rearing decisions in your hands, rather than in the hands of the court. Attorneys at Ascher & Denton, PLLC expertly guide negotiations towards a settlement that protects your child's best interests and your parental rights.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd866475-4003-45f6-ab08-b39e9f5da3cc.jpg)
 
 **By your side in litigation**
 
