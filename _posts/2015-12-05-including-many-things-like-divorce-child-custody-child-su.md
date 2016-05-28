@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.'
-datePublished: '2016-05-10T22:30:54.576Z'
-dateModified: '2016-05-10T22:30:48.784Z'
+datePublished: '2016-05-28T00:04:15.585Z'
+dateModified: '2016-05-28T00:04:12.155Z'
 title: We only do family law
 author: []
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
