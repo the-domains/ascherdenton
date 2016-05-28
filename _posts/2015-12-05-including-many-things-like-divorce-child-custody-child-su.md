@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.'
-datePublished: '2016-05-28T00:04:15.585Z'
-dateModified: '2016-05-28T00:04:12.155Z'
+description: 'Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. This kind of helping people is very satisfying work for us.'
+datePublished: '2016-05-28T01:10:19.684Z'
+dateModified: '2016-05-28T01:09:41.119Z'
 title: We only do family law
 author: []
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa5a9ab-2100-47b7-bbf2-ac1fbf220366.jpg)
 
-Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. When done well, it is very satisfying work for us.
+Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not just tell you what you want to hear. This kind of helping people is very satisfying work for us.
 
 Family law specifically includes many kinds of cases, including (but not limited to):
 
