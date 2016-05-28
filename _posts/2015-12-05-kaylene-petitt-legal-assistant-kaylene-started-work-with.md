@@ -1,16 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T01:00:03.781Z'
-dateModified: '2016-05-03T00:59:55.665Z'
+datePublished: '2016-05-28T00:04:47.285Z'
+dateModified: '2016-05-28T00:04:44.345Z'
 author: []
 title: ~Our Team ~
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
-published: true
 authors: []
 publisher:
   name: ascherdenton.com
