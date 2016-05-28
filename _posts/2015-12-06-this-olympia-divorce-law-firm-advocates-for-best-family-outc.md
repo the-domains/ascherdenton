@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The end of marriage is the beginning of a future you can choose. '
-datePublished: '2016-05-28T00:39:36.736Z'
-dateModified: '2016-05-28T00:39:26.842Z'
-author: []
-title: 'The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family. '
+datePublished: '2016-05-28T00:43:14.378Z'
+dateModified: '2016-05-28T00:43:07.394Z'
+author:
+  - name: ''
+    url: ''
+title: 'The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.'
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
 authors: []
 publisher:
@@ -22,7 +24,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![The end of marriage is the beginning of a future you can choose. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfa2627da448574841da407dcc8fc6532ea1cd1.jpg)
 
 # The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.
 
@@ -34,12 +36,11 @@ With more than 25 years of experience in family law matters, the attorneys at As
 * Division of marital debts
 * Sale or possession of the marital home
 * Spousal support and temporary support
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fec7351-9a2c-456d-85ea-df9109f84736.jpg)
 
 **We are also family law mediators who encourage cooperation**
 
 Mediation gives you and your spouse the opportunity to negotiate a divorce settlement in a more amicable setting by working with a trained facilitator. The mediation process fosters cooperation between partners and produces less stress and hostility than is usually associated with litigation. Mediation often reduces the time and costs of divorce, and it puts the decisions in your hands. The experienced negotiators at Ascher & Denton, PLLC can help you obtain the most equitable divorce settlement, fair child support agreement and healthy child custody arrangement.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/660d3e7b-6055-4fa4-83fd-236fabdb6938.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fec7351-9a2c-456d-85ea-df9109f84736.jpg)
 
 **Family law litigators by your side**
 
