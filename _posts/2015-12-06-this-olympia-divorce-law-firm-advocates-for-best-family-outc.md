@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The end of marriage is the beginning of a future you can choose. '
-datePublished: '2016-05-28T00:30:45.574Z'
-dateModified: '2016-05-28T00:30:42.124Z'
+datePublished: '2016-05-28T00:34:01.031Z'
+dateModified: '2016-05-28T00:33:27.132Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
@@ -27,7 +27,6 @@ _type: Article
 # **Divorce Help in Olympia**
 
 The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fec7351-9a2c-456d-85ea-df9109f84736.jpg)
 
 With more than 25 years of experience in family law matters, the attorneys at Ascher & Denton, PLLC in Olympia take your individual needs into account as we seek the best possible results for you regarding:
 
@@ -37,6 +36,7 @@ With more than 25 years of experience in family law matters, the attorneys at As
 * Division of marital debts
 * Sale or possession of the marital home
 * Spousal support and temporary support
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fec7351-9a2c-456d-85ea-df9109f84736.jpg)
 
 **We are also family law mediators who encourage cooperation**
 
