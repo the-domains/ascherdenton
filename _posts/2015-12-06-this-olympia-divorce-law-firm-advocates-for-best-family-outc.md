@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The end of marriage is the beginning of a future you can choose. '
-datePublished: '2016-05-28T00:27:13.221Z'
-dateModified: '2016-05-28T00:27:06.125Z'
+datePublished: '2016-05-28T00:30:45.574Z'
+dateModified: '2016-05-28T00:30:42.124Z'
 author: []
 title: Divorce Help in Olympia
 sourcePath: _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
@@ -27,6 +27,7 @@ _type: Article
 # **Divorce Help in Olympia**
 
 The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fec7351-9a2c-456d-85ea-df9109f84736.jpg)
 
 With more than 25 years of experience in family law matters, the attorneys at Ascher & Denton, PLLC in Olympia take your individual needs into account as we seek the best possible results for you regarding:
 
@@ -40,6 +41,7 @@ With more than 25 years of experience in family law matters, the attorneys at As
 **We are also family law mediators who encourage cooperation**
 
 Mediation gives you and your spouse the opportunity to negotiate a divorce settlement in a more amicable setting by working with a trained facilitator. The mediation process fosters cooperation between partners and produces less stress and hostility than is usually associated with litigation. Mediation often reduces the time and costs of divorce, and it puts the decisions in your hands. The experienced negotiators at Ascher & Denton, PLLC can help you obtain the most equitable divorce settlement, fair child support agreement and healthy child custody arrangement.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/660d3e7b-6055-4fa4-83fd-236fabdb6938.jpg)
 
 **Family law litigators by your side**
 
