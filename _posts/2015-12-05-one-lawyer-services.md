@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'is an intelligent and cost effective way to resolve a disagreement with a guarantee of no court battles. Both sides get help from one lawyer to learn all of the legal advice either side would have received if they had come in to meet separately with the lawyer. This does not create a conflict of interest because both sides agree to the process in the first place and the attorney is neutral, giving all legal advice and information to both sides at all times.The lawyer makes sure filing deadlines are known and rights are preserved. '
-datePublished: '2016-05-28T00:06:00.630Z'
-dateModified: '2016-05-28T00:04:02.658Z'
+datePublished: '2016-05-28T00:06:27.000Z'
+dateModified: '2016-05-28T00:06:15.349Z'
 author: []
 title: ONE LAWYER
 sourcePath: _posts/2015-12-05-one-lawyer-services.md
