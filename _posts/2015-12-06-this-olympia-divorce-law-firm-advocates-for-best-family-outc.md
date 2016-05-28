@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-28T00:17:55.604Z'
-datePublished: '2016-05-28T00:18:09.410Z'
+dateModified: '2016-05-28T00:23:55.559Z'
+datePublished: '2016-05-28T00:24:07.299Z'
 description: 'The end of marriage is the beginning of a future you can choose. '
 hasPage: true
 inFeed: true
