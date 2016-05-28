@@ -1,8 +1,8 @@
 ---
 authors: []
-dateModified: '2016-05-27T23:46:52.031Z'
-datePublished: '2016-05-27T23:48:32.958Z'
-description: Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+dateModified: '2016-05-27T23:49:37.737Z'
+datePublished: '2016-05-28T00:02:27.160Z'
+description: "When children's needs are at stake, nothing else is nearly as important. Have us help."
 hasPage: true
 inFeed: false
 inNav: true
@@ -21,11 +21,11 @@ _type: Article
 ---
 ![When children's needs are at stake, nothing else is nearly as important. Have us help.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/906d05e2-8a18-448c-8233-8eb135839ba9.jpg)
 
-Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+* Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
 
 Child custody and parenting plans are the most important issue a parent faces during divorce.
 
-Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.
+* Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.
 
 Family law attorneys at Ascher & Denton, PLLC have more than 25 years of experience in child custody matters. We stand by your side on all issues of child custody and visitation, including extensive knowledge about:
 
