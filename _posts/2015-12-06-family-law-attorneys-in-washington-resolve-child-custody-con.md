@@ -1,17 +1,21 @@
 ---
-datePublished: '2016-05-28T21:45:59.354Z'
-sourcePath: _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
+datePublished: '2016-06-16T20:29:24.590Z'
+sourcePath: >-
+  _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-05-28T21:45:44.049Z'
+dateModified: '2016-06-16T20:29:04.353Z'
 title: Child custody and parenting plans
 publisher:
   domain: www.ascherdenton.com
   name: ascherdenton.com
-description: Nothing is more important to parents. We help you make wise decisions. Child custody and parenting plans are the most important issues a parent faces during divorce.
+description: >-
+  Nothing is more important to parents. We help you make wise decisions. Child
+  custody and parenting plans are the most important issues a parent faces
+  during divorce.
 inNav: true
 starred: false
 url: washington-family-law-attorneys-resolving-child-custody-conf/index.html
@@ -23,7 +27,9 @@ _type: Article
 
 Nothing is more important to parents. We help you make wise decisions. Child custody and parenting plans are the most important issues a parent faces during divorce.
 
-Compassionate lawyers with more than 25 years of experience negotiating best outcomes for families.
+Compassionate law with more than 25 years...
+
+of experience negotiating best outcomes for families.
 
 Attorneys at Ascher & Denton, PLLC share your concern about protecting your child's right to be raised in a healthy, loving environment. We strive diligently to resolve child custody disputes through negotiation, with minimal conflict in this sensitive area. Our goal is that respect be maintained between parents throughout a negotiation, and that agreement be reached amicably.
 
