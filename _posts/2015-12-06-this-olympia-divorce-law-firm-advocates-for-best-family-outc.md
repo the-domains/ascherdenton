@@ -1,22 +1,22 @@
 ---
+datePublished: '2016-06-16T21:31:15.197Z'
+sourcePath: >-
+  _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
+inFeed: true
 authors: []
-dateModified: '2016-06-16T20:31:07.065Z'
-datePublished: '2016-06-16T20:31:37.502Z'
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-16T21:30:03.543Z'
+title: Divorce can be less painful
+publisher:
+  domain: www.ascherdenton.com
+  name: ascherdenton.com
 description: >-
   The dissolution of your marriage is an emotional and stressful event. The
   compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of
   divorce so you can concentrate on the health and well-being of your family.
-hasPage: true
-inFeed: true
 inNav: true
-keywords: []
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
-title: Divorce can be less painful
-author: []
-sourcePath: >-
-  _posts/2015-12-06-this-olympia-divorce-law-firm-advocates-for-best-family-outc.md
 starred: false
 url: divorce-can-be-less-painful/index.html
 _context: 'http://schema.org'
@@ -27,7 +27,9 @@ _type: Article
 
 The dissolution of your marriage is an emotional and stressful event. The compassionate attorneys at Ascher & Denton, PLLC help ease the legal strain of divorce so you can concentrate on the health and well-being of your family.
 
-With more than 25 years of experience in family law matters, the attorneys at Ascher & Denton, PLLC in Olympia take your individual needs into account as we seek the best possible results for you regarding:
+With more than 25 years of experience...
+
+in family law matters, the attorneys at Ascher & Denton, PLLC in Olympia take your individual needs into account as we seek the best possible results for you regarding:
 
 * Child custody and visitation rights
 * Child support
