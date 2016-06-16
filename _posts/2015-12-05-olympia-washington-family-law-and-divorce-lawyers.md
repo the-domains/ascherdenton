@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-16T20:32:48.147Z'
+datePublished: '2016-06-16T21:28:02.605Z'
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-and-divorce-lawyers.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T20:32:47.786Z'
+dateModified: '2016-06-16T21:27:51.232Z'
 title: Family law done right
 description: >-
   Welcome to the Ascher & Denton web site. Thanks for visiting. We truly enjoy
