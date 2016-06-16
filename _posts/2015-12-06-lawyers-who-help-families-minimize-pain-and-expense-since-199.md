@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T20:31:33.857Z'
+datePublished: '2016-06-16T23:24:46.201Z'
 sourcePath: >-
   _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
 inFeed: true
@@ -7,7 +7,7 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T20:31:12.158Z'
+dateModified: '2016-06-16T23:24:36.696Z'
 title: Minimize Pain & Expense
 publisher:
   name: ascherdenton.com
@@ -30,9 +30,7 @@ _type: Article
 
 Since 1990, Ascher & Denton lawyers have been achieving the best family outcomes with minimal conflict and expense.
 
-Located in Olympia, Washington, we provide compassionate and considered advice and representation in all areas of family law, with the philosophy that respect and sensible negotiation often provide the best results:
-
-* Divorce/Dissolution of Marriage
+* Located in Olympia, Washington, we provide compassionate and considered advice and representation in all areas of family law, with the philosophy that respect and sensible negotiation often provide the best results:Divorce/Dissolution of Marriage
 * Alimony/Spousal Support
 * Child custody and visitation/Parenting Plans
 * Child support (past/present/future)
