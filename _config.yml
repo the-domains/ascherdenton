@@ -16,14 +16,14 @@ collections:
       number: 10
 color:
   saturation: 0.514411
-  brandStrength: 0.625
+  brandStrength: 0.858396
   lightness: 0.625
   brandColors:
-    - '#FFFFFF'
-    - '#55443C'
-    - '#070607'
-    - '#C6C4AE'
-    - '#968365'
+    - '#FEFEFE'
+    - '#49698F'
+    - '#87897C'
+    - '#321602'
+    - '#A3D2DF'
   rhythmicContrast: 0.5338346
 cta:
   bucket: null
@@ -33,11 +33,11 @@ analytics:
   twitter: null
   google: UA-72398547-1
   facebook: null
-name: 'Ascher & Denton, Olympia Family Law'
 favicon: null
+name: 'Ascher & Denton, Olympia Family Law'
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.82581
-layout_spectrum: 1
+layout_spectrum: 0.8734336
