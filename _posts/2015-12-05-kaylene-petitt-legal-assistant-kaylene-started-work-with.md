@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-23T20:24:23.497Z'
+datePublished: '2016-06-23T20:26:19.538Z'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T23:59:26.011Z'
+dateModified: '2016-06-23T20:26:14.262Z'
 title: ~Our Team~
 publisher:
   name: ascherdenton.com
@@ -49,7 +49,7 @@ She also enjoys cooking and sharing delicious food, taking pictures of her cat, 
 Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nearing completion of her Associate's Degree at Spokane Community College. She proved herself so invaluable that she came to work here permanently as a legal assistant in January of 2014\.
 
 Khrys recently completed studies at The Evergreen State College (Kaylene's and Jim's alma mater) where she graduated with her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She celebrated twelve years clean from drug use on January 1, 2016\. Khrys participates in many of the law clerk lunch learning sessions with Kaylene and Melissa and continues loving to learn.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac66349-bf53-4591-9b54-9a0364470a89.jpg)
+![Retired Attorney Jim Ascher](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1a09fed4acc24a7be7435a6e10384574/croprotate.jpg?cropheight=3269&cropwidth=2327&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbac66349-bf53-4591-9b54-9a0364470a89.jpg&x=0&y=0)
 
 # **James Ascher, Retired Attorney**
 
@@ -58,7 +58,7 @@ Jim Ascher and Melissa Denton joined their individual law firms in 1995\. At the
 Fortunately, Jim was kidding and a very enjoyable law practice has continued ever since. Jim is still in touch frequently, but he retired fully from the practice of law at the end of 2014\.
 
 Jim's former careers in network news and with the US Foreign Service certainly added spice to the mix and his wise advice and good humor still add to the quality of this law firm.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e495cfe3-85bf-4c68-9bb7-95a91f3b9d32.jpg)
+![Traci, books and business](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e495cfe3-85bf-4c68-9bb7-95a91f3b9d32.jpg)
 
 # **Traci Zawlocki, Books & Business**
 
