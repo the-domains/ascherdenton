@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T23:24:46.201Z'
+datePublished: '2016-06-23T20:24:03.023Z'
 sourcePath: >-
   _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
 inFeed: true
@@ -7,7 +7,7 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T23:24:36.696Z'
+dateModified: '2016-06-21T18:30:16.014Z'
 title: Minimize Pain & Expense
 publisher:
   name: ascherdenton.com
@@ -30,7 +30,9 @@ _type: Article
 
 Since 1990, Ascher & Denton lawyers have been achieving the best family outcomes with minimal conflict and expense.
 
-* Located in Olympia, Washington, we provide compassionate and considered advice and representation in all areas of family law, with the philosophy that respect and sensible negotiation often provide the best results:Divorce/Dissolution of Marriage
+Located in Olympia, Washington, we provide compassionate and considered advice and representation in all areas of family law, with the philosophy that respect and sensible negotiation often provide the best results. These are all part of family law:
+
+* Divorce/Dissolution of Marriage
 * Alimony/Spousal Support
 * Child custody and visitation/Parenting Plans
 * Child support (past/present/future)
@@ -43,7 +45,7 @@ Since 1990, Ascher & Denton lawyers have been achieving the best family outcomes
 
 Divorce
 
-We focus on helping you figure out what your best options are and cut your losses when making decisions about your divorce, including fair distribution of assets, division of the marital home, child support payments and child custody rights. (In Washington, Divorce is called Dissolution of Marriage and Child Custody is called Parenting Plan)
+We focus on helping you figure out what your best options are and cut your losses when making decisions about your divorce, including fair distribution of assets and debts, division of the marital home, tax consequences, child support payments and child custody rights.
 
 Alimony
 
