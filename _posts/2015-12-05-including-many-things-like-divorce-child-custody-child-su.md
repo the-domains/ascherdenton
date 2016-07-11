@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-16T20:26:47.830Z'
+datePublished: '2016-07-11T20:08:00.380Z'
 sourcePath: _posts/2015-12-05-including-many-things-like-divorce-child-custody-child-su.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T20:26:39.887Z'
+dateModified: '2016-07-11T20:07:44.834Z'
 title: We only do family law
 publisher:
   domain: www.ascherdenton.com
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![A clear focus makes us better](https://the-grid-user-content.s3-us-west-2.amazonaws.com/550698bf-8aa9-4edb-9363-deb1d42f8ed9.jpg)
+![We do listen carefully...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/550698bf-8aa9-4edb-9363-deb1d42f8ed9.jpg)
 
 Many attorneys run screaming rather than practicing in this area of law because it takes a special kind of personality (not common among those who become lawyers) to communicate compassionately with very upset people. Not only is it vital for us to understand and help emotionally distressed people, but we have to keep a professional distance from their problems so we can be a smart outsider who does not...
 
