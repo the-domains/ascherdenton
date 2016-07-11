@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-05-28T22:01:59.243Z'
+datePublished: '2016-07-11T20:07:02.873Z'
 sourcePath: _posts/2015-12-05-melissa-denton-senior-partner-attorney-melissa-practices.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-05-28T22:01:45.659Z'
+dateModified: '2016-07-11T20:06:56.296Z'
 title: Melissa Denton
 publisher:
   name: ascherdenton.com
   domain: www.ascherdenton.com
   url: null
   favicon: null
-description: Family law attorney in Thurston County since 1990
+description: >-
+  Melissa Denton is the founding partner and senior lawyer at Ascher & Denton.
+  She has practiced family law in Thurston County since 1990.
 inLanguage: null
 inNav: true
 starred: false
@@ -39,11 +41,11 @@ Melissa Denton gives free advice by volunteering at the local legal services cli
 **Famous Case**
 
 Melissa represented a client from the beginning of a divorce though two appellate court cases and up through the Supreme Court of Washington in a very important case called Rideout v. Rideout,. 150 Wn.2d 337, 359, 77 P.3d 1174 (2003). This case, and many other cases Melissa has worked on, have enriched her perspective and the large amount of experience she can draw upon from practicing family law since 1990\.
+![We can find your way out of the box](https://the-grid-user-content.s3-us-west-2.amazonaws.com/728ea2f7-0ddf-4953-8e72-5ffd262d66bd.jpg)
 
 **Melissa's background**
 
 Melissa has been married since 1987 and has a teenaged son who plans to be a lawyer, heaven help us all. Melissa's family is in Oklahoma and her husband's family is in Malaysia, so they travel a lot. Melissa got her black belt in Shorin Ryu Karate right before starting law school. It helped.
-![being in a box is not the only way to be](https://s3-us-west-2.amazonaws.com/the-grid-img/p/382c2954880503dbbdfee3b59b8b66ce5c33136e.jpg)
 
 _**Melissa Denton's credentials**_
 
