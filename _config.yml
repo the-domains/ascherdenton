@@ -24,10 +24,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Custody & Parenting
-    id: b909fdbe-abc9-4933-a507-ed1b6b3cc511
-    type: content
 favicon: null
 collections:
   - index:
