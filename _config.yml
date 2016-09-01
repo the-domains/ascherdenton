@@ -19,7 +19,9 @@ analytics:
   twitter: null
   google: UA-72398547-1
   facebook: null
-name: ' '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/df821923-6a8b-4d99-8c4d-9c3c20990933.jpg
+name: AscherDenton.com
 cta:
   bucket: null
   version: null
@@ -41,6 +43,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: '   '
+title: We do family law right.
 description: ' '
 purpose: []
