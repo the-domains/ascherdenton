@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-23T20:24:03.023Z'
+datePublished: '2016-08-30T02:06:03.797Z'
 sourcePath: >-
   _posts/2015-12-06-lawyers-who-help-families-minimize-pain-and-expense-since-199.md
 inFeed: true
@@ -7,13 +7,10 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-21T18:30:16.014Z'
+via: {}
+dateModified: '2016-08-30T02:06:03.222Z'
 title: Minimize Pain & Expense
-publisher:
-  name: ascherdenton.com
-  domain: www.ascherdenton.com
-  url: null
-  favicon: null
+publisher: {}
 description: >-
   Since 1990, Ascher & Denton lawyers have been achieving the best family
   outcomes with minimal conflict and expense.
