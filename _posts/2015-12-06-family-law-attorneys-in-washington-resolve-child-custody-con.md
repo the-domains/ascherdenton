@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T20:31:31.518Z'
+datePublished: '2016-08-30T01:29:56.861Z'
 sourcePath: >-
   _posts/2015-12-06-family-law-attorneys-in-washington-resolve-child-custody-con.md
 inFeed: false
@@ -7,16 +7,15 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-16T20:31:02.938Z'
+dateModified: '2016-08-30T01:29:56.331Z'
 title: Child custody and parenting plans
-publisher:
-  domain: www.ascherdenton.com
-  name: ascherdenton.com
+publisher: {}
 description: >-
   Nothing is more important to parents. We help you make wise decisions. Child
   custody and parenting plans are the most important issues a parent faces
   during divorce.
 inNav: true
+via: {}
 starred: false
 url: child-custody-and-parenting-plans/index.html
 _context: 'http://schema.org'
