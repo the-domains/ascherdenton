@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T20:35:53.813Z'
+datePublished: '2016-08-30T01:34:53.385Z'
 sourcePath: _posts/2015-12-05-olympia-washington-family-law-or-ascher-and-denton.md
 inFeed: true
 authors: []
@@ -17,14 +17,11 @@ keywords:
   - construed
 related: []
 author: []
-dateModified: '2016-06-16T20:35:32.218Z'
+via: {}
+dateModified: '2016-08-30T01:34:52.845Z'
 title: Find us
 app_links: []
-publisher:
-  name: 'Ascher & Denton, PLLC'
-  domain: www.ascherdenton.com
-  url: 'http://www.ascherdenton.com'
-  favicon: null
+publisher: {}
 description: 'call us at:360-357-8669'
 inLanguage: en
 inNav: true
@@ -34,7 +31,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Where you and Melissa ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3046fb86-d9f6-4ff5-a32e-6dbfcd2f0917.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3046fb86-d9f6-4ff5-a32e-6dbfcd2f0917.jpg)
 
 call us at:360-357-8669
 
