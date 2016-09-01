@@ -1,18 +1,14 @@
 ---
-datePublished: '2016-06-23T20:24:11.966Z'
+datePublished: '2016-08-30T01:42:30.914Z'
 sourcePath: _posts/2015-12-05-our-philosophy-the-way-we-work-ascher-and-denton-pllc-was.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-23T20:23:16.439Z'
+dateModified: '2016-08-30T01:42:30.413Z'
 title: Our Philosophy
-publisher:
-  name: ascherdenton.com
-  domain: www.ascherdenton.com
-  url: null
-  favicon: null
+publisher: {}
 description: >-
   Ascher & Denton, PLLC was created with some very clear goals in mind. We feel
   it is vitally important to assist our clients through controversies involving
@@ -22,6 +18,7 @@ description: >-
   unneeded costs (or pain) on others is a big mistake.
 inLanguage: null
 inNav: true
+via: {}
 starred: false
 url: our-philosophy/index.html
 _context: 'http://schema.org'
