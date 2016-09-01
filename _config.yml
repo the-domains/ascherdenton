@@ -8,33 +8,33 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Family Law done right
 color:
   saturation: 0.5870928
   brandStrength: 0.6096491
   lightness: 0.4536341
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#121411'
+    - '#345321'
+    - '#D7E7F5'
+    - '#A12F27'
+    - '#E46151'
   rhythmicContrast: 0.6340852
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: UA-72398547-1
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: 'Ascher & Denton, Olympia Family Law'
 opengraph:
   image: null
