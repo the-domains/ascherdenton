@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: UA-72398547-1
   facebook: null
-name: 'Ascher & Denton, Olympia Family Law'
+name: ' '
 cta:
   bucket: null
   version: null
@@ -37,6 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: '    360-357-8669 '
+title: '   '
 description: Family Law done right
 purpose: []
