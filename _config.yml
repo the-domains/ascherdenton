@@ -1,44 +1,44 @@
-typography_spectrum: 0.5337740534450859
-color:
-  saturation: 0.8591208490543067
-  brandStrength: 0.010405949549749494
-  lightness: 0.500836179824546
-  brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
-  rhythmicContrast: 0.992056921357289
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6106128026731312
-analytics:
-  twitter: null
-  google: UA-72398547-1
-  facebook: null
-name: 'Ascher & Denton, Olympia Family Law'
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+title: >-
+  Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW
+  #A-101, Olympia
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: >-
-  Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW
-  #A-101, Olympia
 description: Family Law done right
-purpose: []
+color:
+  saturation: 0.5870928
+  brandStrength: 0.6096491
+  lightness: 0.4536341
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  rhythmicContrast: 0.6340852
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: 'Ascher & Denton, Olympia Family Law'
+favicon: null
+analytics:
+  twitter: null
+  google: UA-72398547-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9404762
+layout_spectrum: 0.8333333
