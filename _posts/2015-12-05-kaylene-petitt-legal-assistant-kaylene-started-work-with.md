@@ -1,21 +1,16 @@
 ---
-datePublished: '2016-06-23T20:26:19.538Z'
+datePublished: '2016-08-30T02:01:39.327Z'
 sourcePath: _posts/2015-12-05-kaylene-petitt-legal-assistant-kaylene-started-work-with.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-23T20:26:14.262Z'
-title: ~Our Team~
-publisher:
-  name: ascherdenton.com
-  domain: www.ascherdenton.com
-  url: null
-  favicon: null
-description: >-
-  See the Melissa Denton page for information about her - here is the rest of
-  our team...
+via: {}
+dateModified: '2016-08-30T02:01:38.773Z'
+title: 'Kaylene Petitt, Law Clerk'
+publisher: {}
+description: Formerly Legal Assistant (2008-2015)
 inLanguage: null
 inNav: true
 starred: false
@@ -24,9 +19,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Kaylene, Melissa and Khrys have your back in your Family Law case](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa88a99-eef6-4d3a-a487-91bba02920e5.jpg)
-
-See the Melissa Denton page for information about her - here is the rest of our team...
 ![Law Clerk Kaylene](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d61792e6d4b4370de9d5009a9922d3fc2765ac4d.jpg)
 
 # **Kaylene Petitt, Law Clerk**
@@ -40,16 +32,9 @@ Future Attorney (in about 2020)
 In Janurary of 2008, Kaylene started as a legal assistant with Ascher & Denton. Armed with her Bachelor's Degree from The Evergreen State College, emphasizing United States History and Visual Arts and great life skills, Kaylene has blossomed in her law office careers. Through many life changes and through many many residence moves, Kaylene has been a crucial part of the Ascher & Denton team. Kaylene's compassionate and careful, clear approach to helping clients and helping to run the business side of this firm make her a wonderful asset and a really enjoyable person to get help from.
 
 In mid 2015, Kaylene started her four year course of study as a Law Clerk (with Melissa Denton's mentoring) to become an attorney with this firm.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56eab44b-57cd-4671-a9c5-0a08782708c2.jpg)
 
 She also enjoys cooking and sharing delicious food, taking pictures of her cat, and being a newlywed.
-
-# **Khrys Kayne, Legal Assistant**
-
-Khrys came to work at Ascher & Denton in late 2013 as an intern when she was nearing completion of her Associate's Degree at Spokane Community College. She proved herself so invaluable that she came to work here permanently as a legal assistant in January of 2014\.
-
-Khrys recently completed studies at The Evergreen State College (Kaylene's and Jim's alma mater) where she graduated with her Bachelor's Degree in June 2016\. Khrys has two wonderful daughters and two cats. She celebrated twelve years clean from drug use on January 1, 2016\. Khrys participates in many of the law clerk lunch learning sessions with Kaylene and Melissa and continues loving to learn.
-![Retired Attorney Jim Ascher](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1a09fed4acc24a7be7435a6e10384574/croprotate.jpg?cropheight=3269&cropwidth=2327&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbac66349-bf53-4591-9b54-9a0364470a89.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77489e5-5c98-4dba-8b8d-272f43876529.jpg)
 
 # **James Ascher, Retired Attorney**
 
