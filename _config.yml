@@ -1,3 +1,16 @@
+layout_spectrum: 0.42255151900462806
+typography_spectrum: 0.9404762
+color:
+  saturation: 0.9235652601346374
+  brandStrength: 0.619110391009599
+  lightness: 0.6714823332149535
+  brandColors:
+    - '#121411'
+    - '#345321'
+    - '#D7E7F5'
+    - '#A12F27'
+    - '#E46151'
+  rhythmicContrast: 0.8537300629541278
 title: >-
   Ascher & Denton, Olympia Family Law    360-357-8669   2401 Bristol Ct. SW
   #A-101, Olympia
@@ -15,17 +28,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Family Law done right
-color:
-  saturation: 0.5870928
-  brandStrength: 0.6096491
-  lightness: 0.4536341
-  brandColors:
-    - '#121411'
-    - '#345321'
-    - '#D7E7F5'
-    - '#A12F27'
-    - '#E46151'
-  rhythmicContrast: 0.6340852
 cta:
   bucket: null
   version: null
@@ -40,5 +42,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9404762
-layout_spectrum: 0.2437343
